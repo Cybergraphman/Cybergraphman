@@ -1,6 +1,6 @@
 # Cybergraphman
 
-![Cybergraphman](cybergraphman.png)
+![Cybergraphman](imagen/cybergraphman.png)
 
 # CYBERGRAPHMAN
 
