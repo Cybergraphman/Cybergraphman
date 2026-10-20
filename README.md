@@ -1,5 +1,5 @@
 ![Portada CYBERGRAPHMAN](Recursos/gh_portada_cybergraphman.png)
 
-# Cybergraphman
+### Cybergraphman
 
-## Graphic Design | Cybersecurity | Quality Control
+**Graphic Design | Cybersecurity | Quality Control**
