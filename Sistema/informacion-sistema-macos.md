@@ -1,10 +1,10 @@
 # Información del sistema
 
-## Introducción
+### Introducción
 
 Puedes consultar las características técnicas de tu Mac directamente desde Terminal, sin instalar aplicaciones adicionales.
 
-## Comando
+### Comando
 
 ```diff
 + system_profiler SPHardwareDataType SPStorageDataType SPSerialATADataType SPSoftwareDataType
