@@ -14,3 +14,7 @@ Apple/macOS/Terminal. Consulta las características de hardware y software.
 Apple/macOS/Terminal. Convierte imágenes PNG a JPEG.  
 🎧 **[Conversión de audio](Audio/conversion-wav-mp3.md)**  
 Apple/macOS/Terminal. Convierte archivos WAV a MP3 utilizando FFmpeg.
+
+### Credenciales y reconocimientos
+
+📜 [Colegio de Inteligencia](Credenciales/colegio-de-inteligencia.pdf)
