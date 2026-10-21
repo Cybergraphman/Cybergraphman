@@ -26,4 +26,14 @@ Apple/macOS/Terminal. Convierte archivos WAV a MP3 utilizando FFmpeg.
 📜 **[Fundación Comunidad DOJO y Women of Security Panamá (WoSec)](https://github.com/Cybergraphman/Cybergraphman/raw/refs/heads/main/Credenciales/wosec_ciberseguridad_2025.pdf)**.  
 2025 Panamá | Participante becado del Bootcamp Fundamentos de Ciberseguridad.
 
-<sub><i>Los documentos están protegidos con contraseña. Para solicitar acceso, <a href="mailto:cybergraphman@proton.me?subject=Solicitud%20de%20acceso%20a%20credenciales">haz clic aquí</a>.</i></sub>
+<sub><i>Los documentos están protegidos con contraseña. Para solicitar acceso, <a href="mailto:cybergraphman@proton.me?subject=Solicitud%20de%20acceso%20a%20credenciales">haz clic aquí</a>.</i></sub>  
+
+<br><br>
+
+<h3 align="center">Cybergraphman <span style="color:#808080;">Podcast</span></h3>
+
+<p align="center">
+  <a href="https://open.spotify.com/show/4xlG5MCo8kZGhPvISuXwrX">
+    <img src="https://img.shields.io/badge/Spotify-Escucha%20en%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Escucha en Spotify">
+  </a>
+</p>
