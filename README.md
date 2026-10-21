@@ -24,7 +24,7 @@ Apple/macOS/Terminal. Convierte archivos WAV a MP3 utilizando FFmpeg.
 🎓 **[Federación Mexicana de Criminología y Criminalística (FMCC)](https://github.com/Cybergraphman/Cybergraphman/raw/refs/heads/main/Credenciales/fmcc_forense_diplomado_2025.pdf).**  
 2025 México | Diplomado en cómputo forense y evidencia digital.  
 
-### Credenciales y reconocimientos.  
+### Credenciales.    
 
 📜 **[Institución Interdisciplinaria Jurídica, Fiscal y Forense (IJF)](https://github.com/Cybergraphman/Cybergraphman/raw/refs/heads/main/Credenciales/ijf_forense_2026.pdf)**.  
 2026 México | Cómputo forense: desde la extracción del indicio hasta la elaboración y defensa del dictamen.  
