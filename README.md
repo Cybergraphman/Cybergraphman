@@ -17,4 +17,5 @@ Apple/macOS/Terminal. Convierte archivos WAV a MP3 utilizando FFmpeg.
 
 ### Credenciales y reconocimientos
 
-📜 [Asociación Internacional de Ciberseguridad (ASICI) | Membresía 2026](Credenciales/asici-membresia-2026.pdf)
+📜 **[Asociación Internacional de Ciberseguridad (ASICI) | Miembro](Credenciales/asici-membresia-2026.pdf)**  
+<sub>PDF protegido con contraseña. Descarga el documento para visualizarlo.</sub>
