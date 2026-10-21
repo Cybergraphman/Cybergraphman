@@ -19,6 +19,23 @@ Convierte imágenes PNG a formato JPEG directamente desde Terminal, sin necesida
   /Users/usuario/Desktop/imagen.jpg
 ```
 
+### Verificación del archivo
+
+Comprueba el formato y las dimensiones de la imagen convertida.
+
+```bash
+sips -g format -g pixelWidth -g pixelHeight ~/Desktop/imagen.jpg
+```
+
+### Resultados
+
+```text
+/Users/usuario/Desktop/imagen.jpg
+  format: jpeg
+  pixelWidth: 1920
+  pixelHeight: 1080
+```
+
 ### Consideraciones
 
 - El archivo `imagen.png` debe encontrarse en el Escritorio.
