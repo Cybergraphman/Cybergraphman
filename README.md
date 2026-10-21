@@ -20,4 +20,4 @@ Apple/macOS/Terminal. Convierte archivos WAV a MP3 utilizando FFmpeg.
 📜 **[Asociación Internacional de Ciberseguridad (ASICI)](https://github.com/Cybergraphman/Cybergraphman/raw/refs/heads/main/Credenciales/asici-membresia-2026.pdf)**.  
 Membresía  
 📜 **[Institución Interdisciplinaria Jurídica, Fiscal y Forense (IJF)](https://github.com/Cybergraphman/Cybergraphman/raw/refs/heads/main/Credenciales/ijf_forense_2026.pdf)**.  
-Cómputo forense, desde la extracción del indicio, estructural del dictamen y su defensa
+Cómputo forense: desde la extracción del indicio hasta la elaboración y defensa del dictamen.
