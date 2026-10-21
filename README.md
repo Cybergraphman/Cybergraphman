@@ -17,9 +17,9 @@ Apple/macOS/Terminal. Convierte archivos WAV a MP3 utilizando FFmpeg.
 
 ### Credenciales y reconocimientos
 
-🎓 **Universidad Siglo XXI (UNISO)**  
+🎓 **[Universidad Siglo XXI (UNISO)]()**  
 2021 México | Licenciatura en Diseño Gráfico.  
-🎓 **Colegio Internacional de Ciencias Criminológicas y Forenses (CICCF)**  
+🎓 **[Colegio Internacional de Ciencias Criminológicas y Forenses (CICCF)]()**  
 2026 México | Maestrando en Cibercriminología y Ciberseguridad.  
 🎓 **[Federación Mexicana de Criminología y Criminalística (FMCC)](https://github.com/Cybergraphman/Cybergraphman/raw/refs/heads/main/Credenciales/fmcc_forense_diplomado_2025.pdf).**  
 2025 México | Diplomado en cómputo forense y evidencia digital.  
