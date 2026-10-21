@@ -10,7 +10,7 @@ Convierte imágenes PNG a formato JPEG directamente desde Terminal, sin necesida
 + sips -s format jpeg ~/Desktop/imagen.png --out ~/Desktop/imagen.jpg
 ```
 
-**Importante:** El símbolo `+` se utiliza exclusivamente para resaltar el comando en verde dentro de GitHub. No forma parte de su sintaxis y debe omitirse al ejecutarlo.
+<sub><i><strong>Importante:</strong> El símbolo <code>+</code> se utiliza exclusivamente para resaltar el comando en verde dentro de GitHub. No forma parte de su sintaxis y debe omitirse al ejecutarlo.</i></sub>
 
 ### Resultados
 
