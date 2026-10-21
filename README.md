@@ -47,9 +47,7 @@ Apple/macOS/Terminal. Convierte archivos WAV a MP3 utilizando FFmpeg.
 2025 México | Seguridad en Internet.  
 
 📜 **[Universitat Politècnica de València (UPV)]()**  
-2024 España | Fundamentos de ciberseguridad para usuarios.  
-📜 **[Colegio de Inteligencia, Seguridad y Ciencias Forenses (CISCF)]()**  
-2024 México | Manejo y uso de armas cortas, largas y escopetas.  
+2024 España | Fundamentos de ciberseguridad para usuarios.    
 
 📜 **[KnowBe4]()**  
 2017 Estados Unidos | Kevin Mitnick Security Awareness Training.  
