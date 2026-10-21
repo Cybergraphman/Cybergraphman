@@ -10,6 +10,8 @@ Puedes consultar las características técnicas de tu Mac directamente desde Ter
 + system_profiler SPHardwareDataType SPStorageDataType SPSerialATADataType SPSoftwareDataType
 ```
 
+<sub><i><strong>Importante:</strong> El símbolo <code>+</code> se utiliza exclusivamente para resaltar el comando en verde dentro de GitHub. No forma parte de su sintaxis y debe omitirse al ejecutarlo.</i></sub>
+
 ### Resultados
 
 ```text
