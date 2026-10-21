@@ -15,7 +15,7 @@ Apple/macOS/Terminal. Convierte imágenes PNG a JPEG.
 🎧 **[Conversión de audio](Audio/conversion-wav-mp3.md)**  
 Apple/macOS/Terminal. Convierte archivos WAV a MP3 utilizando FFmpeg.
 
-### Títulos.  
+### Educación académica  
 
 🎓 **[Universidad Siglo XXI (UNISO)]()**  
 2021 México | Licenciatura en Diseño Gráfico.  
