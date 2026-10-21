@@ -40,7 +40,9 @@ Apple/macOS/Terminal. Convierte archivos WAV a MP3 utilizando FFmpeg.
 📜 **[Organización de los Estados Americanos (OEA)](https://github.com/Cybergraphman/Cybergraphman/raw/refs/heads/main/Credenciales/oea_seguridad_2025.pdf)**  
 2025 Organismo Interamericano | XI Foro sobre medidas de fomento de la confianza y la seguridad.  
 📜 **[Fundación Comunidad DOJO y Women of Security Panamá (WoSec)](https://github.com/Cybergraphman/Cybergraphman/raw/refs/heads/main/Credenciales/wosec_ciberseguridad_2025.pdf)**.  
-2025 Panamá | Participante becado del Bootcamp Fundamentos de Ciberseguridad.  
+2025 Panamá | Participante becado del bootcamp fundamentos de ciberseguridad.  
+📜 **[Colegio de Inteligencia, Seguridad y Ciencias Forenses (CISCF)]()**  
+2025 México | Técnicas forenses de extracción y análisis, de datos de teléfonos celulares.  
 📜 **[Universidad Nacional Autónoma de México (UNAM)]()**  
 2025 México | Seguridad en Internet.  
 
