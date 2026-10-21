@@ -65,6 +65,23 @@ El comando procesa el archivo sin generar otro archivo. Si finaliza sin errores 
 ffmpeg -i ~/Desktop/audio.mp3 -f null -
 ```
 
+### Resultados
+
+```text
+Input #0, mp3, from '/Users/usuario/Desktop/audio.mp3':
+  Duration: 00:02:07.06, bitrate: 209 kb/s
+  Stream #0:0: Audio: mp3 (mp3float), 44100 Hz, stereo, fltp, 209 kb/s
+
+Stream mapping:
+  Stream #0:0 -> #0:0 (mp3 -> pcm_s16le)
+
+Output #0, null, to 'pipe:':
+  Stream #0:0: Audio: pcm_s16le, 44100 Hz, stereo, s16, 1411 kb/s
+
+video:0KiB audio:21882KiB
+size=N/A time=00:02:07.02 bitrate=N/A speed=440x
+```
+
 ### Consideraciones
 
 - Requiere Python 3 y FFmpeg.
