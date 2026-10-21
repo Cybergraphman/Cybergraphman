@@ -4,7 +4,7 @@
 
 Convierte archivos de audio WAV a formato MP3 directamente desde Terminal utilizando FFmpeg, una herramienta de procesamiento multimedia.
 
-### 1. Instalación
+### Instalación
 
 Instala FFmpeg mediante el paquete `imageio-ffmpeg` de Python.
 
@@ -12,7 +12,7 @@ Instala FFmpeg mediante el paquete `imageio-ffmpeg` de Python.
 python3 -m pip install --user imageio-ffmpeg
 ```
 
-### 2. Localización
+### Localización
 
 Consulta la ruta donde se encuentra el ejecutable de FFmpeg.
 
@@ -20,7 +20,7 @@ Consulta la ruta donde se encuentra el ejecutable de FFmpeg.
 python3 -c "import imageio_ffmpeg; print(imageio_ffmpeg.get_ffmpeg_exe())"
 ```
 
-### 3. Verificación de la instalación
+### Verificación de la instalación
 
 Comprueba la versión de FFmpeg instalada.
 
@@ -28,7 +28,7 @@ Comprueba la versión de FFmpeg instalada.
 python3 -c "import imageio_ffmpeg; print(imageio_ffmpeg.get_ffmpeg_version())"
 ```
 
-### 4. Conversión
+### Conversión
 
 Convierte el archivo `audio.wav`, ubicado en el Escritorio, a formato MP3.
 
@@ -56,7 +56,7 @@ Output #0, mp3, to '/Users/usuario/Desktop/audio.mp3':
 size=3256KiB time=00:02:07.02 bitrate=210.0kbits/s speed=35.5x
 ```
 
-### 5. Verificación del archivo
+### Verificación del archivo
 
 Comprueba que el archivo MP3 generado puede decodificarse correctamente.  
 El comando procesa el archivo sin generar otro archivo. Si finaliza sin errores de decodificación, la comprobación se considera satisfactoria.
