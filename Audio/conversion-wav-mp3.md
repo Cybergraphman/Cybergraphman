@@ -20,19 +20,6 @@ Consulta la ruta donde se encuentra el ejecutable de FFmpeg.
 python3 -c "import imageio_ffmpeg; print(imageio_ffmpeg.get_ffmpeg_exe())"
 ```
 
-### Configuración
-
-Permite ejecutar FFmpeg directamente desde Terminal, incorporando su ubicación al PATH.
-
-```bash
-FFMPEG_PATH="$(python3 -c 'import imageio_ffmpeg; print(imageio_ffmpeg.get_ffmpeg_exe())')"
-mkdir -p "$HOME/bin"
-ln -sf "$FFMPEG_PATH" "$HOME/bin/ffmpeg"
-export PATH="$HOME/bin:$PATH"
-```
-
-<sub><i>Esta configuración es temporal para la sesión actual de Terminal. Para conservarla en nuevas sesiones, debe añadirse el directorio al archivo de configuración de Zsh.</i></sub>
-
 ### Verificación de la instalación
 
 Comprueba la versión de FFmpeg instalada.
