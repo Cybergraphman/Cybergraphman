@@ -32,10 +32,14 @@ Apple/macOS/Terminal. Convierte archivos WAV a MP3 utilizando FFmpeg.
 2026 México | Cómputo forense: desde la extracción del indicio hasta la elaboración y defensa del dictamen.  
 📜 **[Organización de las Naciones Unidas (ONU)](https://github.com/Cybergraphman/Cybergraphman/raw/refs/heads/main/Credenciales/onu_1540_2025.pdf)**.  
 2025 Organismo Internacional | Resolución 1540 (2004) del Consejo de Seguridad.  
+📜 **[Fondo de las Naciones Unidas para la Infancia (UNICEF)]()**  
+2025 Organismo internacional | Análisis de datos  
 📜 **[Organización de los Estados Americanos (OEA)](https://github.com/Cybergraphman/Cybergraphman/raw/refs/heads/main/Credenciales/oea_seguridad_2025.pdf)**  
 2025 Organismo Interamericano | XI Foro sobre medidas de fomento de la confianza y la seguridad.  
 📜 **[Fundación Comunidad DOJO y Women of Security Panamá (WoSec)](https://github.com/Cybergraphman/Cybergraphman/raw/refs/heads/main/Credenciales/wosec_ciberseguridad_2025.pdf)**.  
 2025 Panamá | Participante becado del Bootcamp Fundamentos de Ciberseguridad.  
+📜 **[Universidad Nacional Autónoma de México (UNAM)]()**  
+2025 México | Seguridad en Internet.  
 
 <sub><i>Los documentos están protegidos con contraseña. Para solicitar acceso, <a href="mailto:cybergraphman@proton.me?subject=Solicitud%20de%20acceso%20a%20credenciales">haz clic aquí</a>.</i></sub>  
 
