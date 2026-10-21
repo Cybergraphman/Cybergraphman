@@ -6,60 +6,62 @@
 
 Espacio dedicado a compartir conocimientos, documentar herramientas tecnológicas y explorar el mundo del **diseño gráfico, la ciberseguridad y el control de calidad**.
 
-### Repositorios destacados
+---
+### Repositorios
 
 💻  **[Información del sistema](Sistema/informacion-sistema-macos.md)**  
 Apple/macOS/Terminal. Consulta las características de hardware y software.  
+&nbsp;  
 📸 **[Conversión de imágenes](Imagenes/conversion-png-jpg.md)**  
 Apple/macOS/Terminal. Convierte imágenes PNG a JPEG.  
+&nbsp;  
 🎧 **[Conversión de audio](Audio/conversion-wav-mp3.md)**  
 Apple/macOS/Terminal. Convierte archivos WAV a MP3 utilizando FFmpeg.
 
-### Educación académica  
+---
+### Formación académica  
 
-🎓 **[Universidad Siglo XXI (UNISO)]()**  
-2021 México | Licenciatura en Diseño Gráfico.  
-🎓 **[Colegio Internacional de Ciencias Criminológicas y Forenses (CICCF)]()**  
+🎓 **Colegio Internacional de Ciencias Criminológicas y Forenses (CICCF)**  
 2026 México | Maestrando en Cibercriminología y Ciberseguridad.  
-🎓 **[Federación Mexicana de Criminología y Criminalística (FMCC)](https://github.com/Cybergraphman/Cybergraphman/raw/refs/heads/main/Credenciales/fmcc_forense_diplomado_2025.pdf).**  
+&nbsp;  
+🎓 **Federación Mexicana de Criminología y Criminalística (FMCC)**  
 2025 México | Diplomado en cómputo forense y evidencia digital.  
+&nbsp;  
+🎓 **Colegio de Inteligencia, Seguridad y Ciencias Forenses (CISCF)**  
+2025 México | Diplomado en inteligencia aplicada a la seguridad pública.  
+&nbsp;  
+🎓 **Universidad Siglo XXI (UNISO)**  
+2021 México | Licenciatura en Diseño Gráfico.  
 
-### Credenciales.    
+### Formación complementaria destacada    
 
-📜 **[Institución Interdisciplinaria Jurídica, Fiscal y Forense (IJF)](https://github.com/Cybergraphman/Cybergraphman/raw/refs/heads/main/Credenciales/ijf_forense_2026.pdf)**.  
+📜 **Institución Interdisciplinaria Jurídica, Fiscal y Forense (IJF)**.  
 2026 México | Cómputo forense: desde la extracción del indicio hasta la elaboración y defensa del dictamen.  
-📜 **[Junta Interamericana de Defensa (JID)]()**  
+&nbsp;  
+📜 **Junta Interamericana de Defensa (JID)**  
 2026 Organismo Interamericano | Seminario hemisférico de ciberdefensa 2026.  
-📜 **[Junta Interamericana de Defensa (JID)](https://github.com/Cybergraphman/Cybergraphman/raw/refs/heads/main/Credenciales/jid_armas_2026.pdf)**.  
-2026 Organismo Interamericano | Seminario sobre el tráfico ilícito de armas 2026.  
-
-📜 **[Organización de las Naciones Unidas (ONU)](https://github.com/Cybergraphman/Cybergraphman/raw/refs/heads/main/Credenciales/onu_1540_2025.pdf)**.  
-2025 Organismo Internacional | Resolución 1540 (2004) del Consejo de Seguridad.  
-📜 **[Fondo de las Naciones Unidas para la Infancia (UNICEF)]()**  
-2025 Organismo internacional | Análisis de datos  
-📜 **[Organización de los Estados Americanos (OEA)](https://github.com/Cybergraphman/Cybergraphman/raw/refs/heads/main/Credenciales/oea_seguridad_2025.pdf)**  
-2025 Organismo Interamericano | XI Foro sobre medidas de fomento de la confianza y la seguridad.  
-📜 **[Fundación Comunidad DOJO y Women of Security Panamá (WoSec)](https://github.com/Cybergraphman/Cybergraphman/raw/refs/heads/main/Credenciales/wosec_ciberseguridad_2025.pdf)**.  
+&nbsp;  
+📜 **Fundación Comunidad DOJO y Women of Security Panamá (WoSec)**.  
 2025 Panamá | Participante becado del bootcamp fundamentos de ciberseguridad.  
-📜 **[Colegio de Inteligencia, Seguridad y Ciencias Forenses (CISCF)]()**  
+&nbsp;  
+📜 **Colegio de Inteligencia, Seguridad y Ciencias Forenses (CISCF)**  
 2025 México | Técnicas forenses de extracción y análisis, de datos de teléfonos celulares.  
-📜 **[Universidad Nacional Autónoma de México (UNAM)]()**  
-2025 México | Seguridad en Internet.  
+&nbsp;  
+📜 **Universitat Politècnica de València (UPV)**  
+2024 España | Fundamentos de ciberseguridad para usuarios    
+&nbsp;  
+📜 **KnowBe4**  
+2017 Estados Unidos | Kevin Mitnick Security Awareness Training  
 
-📜 **[Universitat Politècnica de València (UPV)]()**  
-2024 España | Fundamentos de ciberseguridad para usuarios.    
+### Membresías profesionales  
 
-📜 **[KnowBe4]()**  
-2017 Estados Unidos | Kevin Mitnick Security Awareness Training.  
+🎖️ **Asociación Internacional de Ciberseguridad (ASICI)**  
+2026 España | Miembro afiliado  
+&nbsp;  
+🎖️ **Colegio de Inteligencia, Seguridad y Ciencias Forenses (CISCF)**  
+2026 México | Miembro afiliado    
 
-### Membresías.  
-
-🎖️ **[Asociación Internacional de Ciberseguridad (ASICI)](https://github.com/Cybergraphman/Cybergraphman/raw/refs/heads/main/Credenciales/asici-membresia-2026.pdf)**.  
-2026 España | Membresía.  
-
-<sub><i>Los documentos están protegidos con contraseña. Para solicitar acceso, <a href="mailto:cybergraphman@proton.me?subject=Solicitud%20de%20acceso%20a%20credenciales">haz clic aquí</a>.</i></sub>  
-
-<br><br>
+---
 
 <h3 align="center">Cybergraphman <span style="color:#808080;">Podcast</span></h3>
 
