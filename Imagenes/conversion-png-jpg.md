@@ -27,7 +27,7 @@ Comprueba el formato y las dimensiones de la imagen convertida.
 sips -g format -g pixelWidth -g pixelHeight ~/Desktop/imagen.jpg
 ```
 
-### Resultados
+### Resultados de la verificación
 
 ```text
 /Users/usuario/Desktop/imagen.jpg
