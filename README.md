@@ -46,6 +46,9 @@ Apple/macOS/Terminal. Convierte archivos WAV a MP3 utilizando FFmpeg.
 📜 **[Universidad Nacional Autónoma de México (UNAM)]()**  
 2025 México | Seguridad en Internet.  
 
+📜 **[Colegio de Inteligencia, Seguridad y Ciencias Forenses (CISCF)]()**  
+2024 México | Manejo y uso de armas cortas, largas y escopetas.  
+
 📜 **[KnowBe4]()**  
 2017 Estados Unidos | Kevin Mitnick Security Awareness Training.  
 
