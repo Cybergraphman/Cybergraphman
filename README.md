@@ -19,17 +19,17 @@ Apple/macOS/Terminal. Convierte archivos WAV a MP3 utilizando FFmpeg.
 
 🎓 **[Federación Mexicana de Criminología y Criminalística (FMCC)](https://github.com/Cybergraphman/Cybergraphman/raw/refs/heads/main/Credenciales/fmcc_forense_diplomado_2025.pdf).**  
 2025 México | Diplomado en cómputo forense y evidencia digital.  
-    
+
+📜 **[Asociación Internacional de Ciberseguridad (ASICI)](https://github.com/Cybergraphman/Cybergraphman/raw/refs/heads/main/Credenciales/asici-membresia-2026.pdf)**.  
+2026 España | Membresía.  
+📜 **[Junta Interamericana de Defensa (JID)](https://github.com/Cybergraphman/Cybergraphman/raw/refs/heads/main/Credenciales/jid_armas_2026.pdf)**.  
+2026 Organismo Interamericano | Seminario sobre el tráfico ilícito de armas 2026.  
 📜 **[Institución Interdisciplinaria Jurídica, Fiscal y Forense (IJF)](https://github.com/Cybergraphman/Cybergraphman/raw/refs/heads/main/Credenciales/ijf_forense_2026.pdf)**.  
 2026 México | Cómputo forense: desde la extracción del indicio hasta la elaboración y defensa del dictamen.  
 📜 **[Organización de las Naciones Unidas (ONU)](https://github.com/Cybergraphman/Cybergraphman/raw/refs/heads/main/Credenciales/onu_1540_2025.pdf)**.  
 2025 Organismo Internacional | Resolución 1540 (2004) del Consejo de Seguridad.  
 📜 **[Fundación Comunidad DOJO y Women of Security Panamá (WoSec)](https://github.com/Cybergraphman/Cybergraphman/raw/refs/heads/main/Credenciales/wosec_ciberseguridad_2025.pdf)**.  
-2025 Panamá | Participante becado del Bootcamp Fundamentos de Ciberseguridad.
-📜 **[Junta Interamericana de Defensa (JID)](https://github.com/Cybergraphman/Cybergraphman/raw/refs/heads/main/Credenciales/jid_armas_2026.pdf)**.  
-2026 Organismo Interamericano | Seminario sobre el tráfico ilícito de armas 2026.
-📜 **[Asociación Internacional de Ciberseguridad (ASICI)](https://github.com/Cybergraphman/Cybergraphman/raw/refs/heads/main/Credenciales/asici-membresia-2026.pdf)**.  
-2026 España | Membresía
+2025 Panamá | Participante becado del Bootcamp Fundamentos de Ciberseguridad.  
 
 <sub><i>Los documentos están protegidos con contraseña. Para solicitar acceso, <a href="mailto:cybergraphman@proton.me?subject=Solicitud%20de%20acceso%20a%20credenciales">haz clic aquí</a>.</i></sub>  
 
