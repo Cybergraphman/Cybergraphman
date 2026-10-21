@@ -7,7 +7,7 @@
 Espacio dedicado a compartir conocimientos, documentar herramientas tecnológicas y explorar el mundo del **diseño gráfico, la ciberseguridad y el control de calidad**.
 
 ---
-### Repositorios
+### Repositorios públicos
 
 💻  **[Información del sistema](Sistema/informacion-sistema-macos.md)**  
 Apple/macOS/Terminal. Consulta las características de hardware y software.  
