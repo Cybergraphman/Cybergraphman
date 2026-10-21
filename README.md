@@ -9,4 +9,6 @@ Espacio dedicado a compartir conocimientos, documentar herramientas tecnológica
 ### Repositorios destacados
 
 💻  **[Información del sistema](Sistema/informacion-sistema-macos.md)**  
-Consulta las características de hardware y software de tu Mac.
+Consulta las características de hardware y software de tu Mac.  
+📸 **[Conversión de imágenes](Imagenes/conversion-png-jpg.md)**  
+Convierte imágenes PNG a JPEG directamente desde Terminal.
