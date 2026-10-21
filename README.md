@@ -42,6 +42,9 @@ Apple/macOS/Terminal. Convierte archivos WAV a MP3 utilizando FFmpeg.
 📜 **[Universidad Nacional Autónoma de México (UNAM)]()**  
 2025 México | Seguridad en Internet.  
 
+📜 **[KnowBe4]()**  
+2017 Estados Unidos | Kevin Mitnick Security Awareness Training.  
+
 <sub><i>Los documentos están protegidos con contraseña. Para solicitar acceso, <a href="mailto:cybergraphman@proton.me?subject=Solicitud%20de%20acceso%20a%20credenciales">haz clic aquí</a>.</i></sub>  
 
 <br><br>
