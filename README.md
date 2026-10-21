@@ -17,6 +17,9 @@ Apple/macOS/Terminal. Convierte archivos WAV a MP3 utilizando FFmpeg.
 
 ### Credenciales y reconocimientos
 
+🎓 **[Federación Mexicana de Criminología y Criminalística (FMCC)](https://github.com/Cybergraphman/Cybergraphman/raw/refs/heads/main/Credenciales/fmcc_forense_diplomado_2025.pdf).**  
+2025 México | Diplomado en cómputo forense y evidencia digital.  
+
 📜 **[Asociación Internacional de Ciberseguridad (ASICI)](https://github.com/Cybergraphman/Cybergraphman/raw/refs/heads/main/Credenciales/asici-membresia-2026.pdf)**.  
 2026 España | Membresía  
 📜 **[Junta Interamericana de Defensa (JID)](https://github.com/Cybergraphman/Cybergraphman/raw/refs/heads/main/Credenciales/jid_armas_2026.pdf)**.  
