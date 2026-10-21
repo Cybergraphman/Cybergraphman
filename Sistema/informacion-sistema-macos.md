@@ -66,4 +66,9 @@ Software:
       System Integrity Protection: Enabled
 ```
 
+### Consideraciones
+
+- La consulta no modifica la configuración del equipo.
+- Evita compartir públicamente números de serie u otros identificadores del equipo.
+
 [← Volver al inicio](../README.md)
