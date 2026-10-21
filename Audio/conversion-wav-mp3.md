@@ -65,7 +65,7 @@ El comando procesa el archivo sin generar otro archivo. Si finaliza sin errores 
 ffmpeg -i ~/Desktop/audio.mp3 -f null -
 ```
 
-### Resultados
+### Resultados de la verificación
 
 ```text
 Input #0, mp3, from '/Users/usuario/Desktop/audio.mp3':
