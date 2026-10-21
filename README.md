@@ -22,30 +22,30 @@ Apple/macOS/Terminal. Convierte archivos WAV a MP3 utilizando FFmpeg.
 ### Formación académica  
 
 🎓 **Colegio Internacional de Ciencias Criminológicas y Forenses (CICCF)**  
-2026 México | Maestrando en Cibercriminología y Ciberseguridad.  
+2026 México | Maestrando en Cibercriminología y Ciberseguridad  
 &nbsp;  
 🎓 **Federación Mexicana de Criminología y Criminalística (FMCC)**  
-2025 México | Diplomado en cómputo forense y evidencia digital.  
+2025 México | Diplomado en cómputo forense y evidencia digital  
 &nbsp;  
 🎓 **Colegio de Inteligencia, Seguridad y Ciencias Forenses (CISCF)**  
-2025 México | Diplomado en inteligencia aplicada a la seguridad pública.  
+2025 México | Diplomado en inteligencia aplicada a la seguridad pública  
 &nbsp;  
 🎓 **Universidad Siglo XXI (UNISO)**  
-2021 México | Licenciatura en Diseño Gráfico.  
+2021 México | Licenciatura en Diseño Gráfico  
 
 ### Formación complementaria destacada    
 
-📜 **Institución Interdisciplinaria Jurídica, Fiscal y Forense (IJF)**.  
-2026 México | Cómputo forense: desde la extracción del indicio hasta la elaboración y defensa del dictamen.  
+📜 **Institución Interdisciplinaria Jurídica, Fiscal y Forense (IJF)**  
+2026 México | Cómputo forense: desde la extracción del indicio hasta la elaboración y defensa del dictamen  
 &nbsp;  
 📜 **Junta Interamericana de Defensa (JID)**  
-2026 Organismo Interamericano | Seminario hemisférico de ciberdefensa 2026.  
+2026 Organismo Interamericano | Seminario hemisférico de ciberdefensa 2026  
 &nbsp;  
-📜 **Fundación Comunidad DOJO y Women of Security Panamá (WoSec)**.  
-2025 Panamá | Participante becado del bootcamp fundamentos de ciberseguridad.  
+📜 **Fundación Comunidad DOJO y Women of Security Panamá (WoSec)**  
+2025 Panamá | Participante becado del bootcamp fundamentos de ciberseguridad  
 &nbsp;  
 📜 **Colegio de Inteligencia, Seguridad y Ciencias Forenses (CISCF)**  
-2025 México | Técnicas forenses de extracción y análisis, de datos de teléfonos celulares.  
+2025 México | Técnicas forenses de extracción y análisis, de datos de teléfonos celulares  
 &nbsp;  
 📜 **Universitat Politècnica de València (UPV)**  
 2024 España | Fundamentos de ciberseguridad para usuarios    
