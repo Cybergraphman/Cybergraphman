@@ -11,4 +11,6 @@ Espacio dedicado a compartir conocimientos, documentar herramientas tecnológica
 💻  **[Información del sistema](Sistema/informacion-sistema-macos.md)**  
 Apple/macOS/Terminal. Consulta las características de hardware y software.  
 📸 **[Conversión de imágenes](Imagenes/conversion-png-jpg.md)**  
-Apple/macOS/Terminal. Convierte imágenes PNG a JPEG.
+Apple/macOS/Terminal. Convierte imágenes PNG a JPEG.  
+🎧 **[Conversión de audio](Audio/conversion-wav-mp3.md)**  
+Apple/macOS/Terminal. Convierte archivos WAV a MP3 utilizando FFmpeg.
