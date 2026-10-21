@@ -40,8 +40,6 @@ Convierte el archivo `audio.wav`, ubicado en el Escritorio, a formato MP3.
 
 ### Resultados
 
-**Ejemplo de salida de Terminal:**
-
 ```text
 Input #0, wav, from '/Users/usuario/Desktop/audio.wav':
   Duration: 00:02:07.02, bitrate: 1411 kb/s
