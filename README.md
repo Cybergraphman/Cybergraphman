@@ -30,6 +30,7 @@ Apple/macOS/Terminal. Convierte archivos WAV a MP3 utilizando FFmpeg.
 2026 Organismo Interamericano | Seminario sobre el tráfico ilícito de armas 2026.  
 📜 **[Institución Interdisciplinaria Jurídica, Fiscal y Forense (IJF)](https://github.com/Cybergraphman/Cybergraphman/raw/refs/heads/main/Credenciales/ijf_forense_2026.pdf)**.  
 2026 México | Cómputo forense: desde la extracción del indicio hasta la elaboración y defensa del dictamen.  
+
 📜 **[Organización de las Naciones Unidas (ONU)](https://github.com/Cybergraphman/Cybergraphman/raw/refs/heads/main/Credenciales/onu_1540_2025.pdf)**.  
 2025 Organismo Internacional | Resolución 1540 (2004) del Consejo de Seguridad.  
 📜 **[Fondo de las Naciones Unidas para la Infancia (UNICEF)]()**  
