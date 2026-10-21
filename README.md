@@ -22,4 +22,6 @@ Apple/macOS/Terminal. Convierte archivos WAV a MP3 utilizando FFmpeg.
 📜 **[Institución Interdisciplinaria Jurídica, Fiscal y Forense (IJF)](https://github.com/Cybergraphman/Cybergraphman/raw/refs/heads/main/Credenciales/ijf_forense_2026.pdf)**.  
 2026 México | Cómputo forense: desde la extracción del indicio hasta la elaboración y defensa del dictamen.  
 📜 **[Fundación Comunidad DOJO y Women of Security Panamá (WoSec)](https://github.com/Cybergraphman/Cybergraphman/raw/refs/heads/main/Credenciales/wosec_ciberseguridad_2025.pdf)**.  
-2025 Panamá | Bootcamp Fundamentos de Ciberseguridad.
+2025 Panamá | Participante becado del Bootcamp Fundamentos de Ciberseguridad.
+
+<sub><i>Los documentos están protegidos con contraseña. Para solicitar acceso, <a href="mailto:cybergraphman@proton.me?subject=Solicitud%20de%20acceso%20a%20credenciales">haz clic aquí</a>.</i></sub>
