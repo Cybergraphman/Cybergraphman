@@ -35,4 +35,34 @@ La fotografía tiene unas dimensiones de 1920 × 1272 píxeles, equivalentes a 2
   pixelHeight: 1272
 ```
 
+### Creación del mensaje
+
+Utilizaremos Terminal para crear un archivo de texto llamado `mensaje.txt`, que contendrá el mensaje que posteriormente ocultaremos dentro de la fotografía.
+
+El archivo `mensaje.txt` quedará almacenado en el Escritorio.
+
+### Comando
+
+```bash
+cat > ~/Desktop/mensaje.txt <<'EOF'
+La esteganografía digital utilizando Terminal, es lo único que necesitas para esconder ese mensaje que requiere entregarse de manera casi anónima, porque si la fotografía es interceptada por un sujeto que conoce las técnicas, lo puede descifrar antes de ser entregado.
+EOF
+```
+
+### Verificación
+
+Para comprobar que el archivo se creó correctamente y contiene el mensaje, ejecutamos:
+
+```bash
+cat ~/Desktop/mensaje.txt
+```
+
+### Resultados
+
+Terminal mostrará el contenido completo del archivo:
+
+```text
+La esteganografía digital utilizando Terminal, es lo único que necesitas para esconder ese mensaje que requiere entregarse de manera casi anónima, porque si la fotografía es interceptada por un sujeto que conoce las técnicas, lo puede descifrar antes de ser entregado.
+```
+
 [← Volver al inicio](../README.md)
