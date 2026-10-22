@@ -258,4 +258,95 @@ b172723fcab76c52ca52adbda98b52bd0d60046bafbd3a42fb358727376110c8  /Users/cybergr
 Aunque ambas conservan el mismo nombre y una apariencia prácticamente idéntica, la segunda contiene el mensaje oculto mediante la técnica LSB.
 
 
+### Recuperación del mensaje oculto
+
+Utilizaremos **Nano** para crear un segundo programa Python que permitirá extraer el mensaje oculto dentro de la fotografía mediante la técnica LSB.
+
+El programa se guardará en el Escritorio con el nombre `extraer_mensaje.py`.
+
+### Comando
+
+Abrimos Terminal y ejecutamos:
+
+```bash
+nano ~/Desktop/extraer_mensaje.py
+```
+
+### Código Python
+
+Terminal abrirá el editor Nano, donde introduciremos el siguiente código:
+
+```python
+from PIL import Image
+from pathlib import Path
+
+# Archivos de trabajo
+escritorio = Path.home() / "Desktop"
+
+imagen = escritorio / "fotografia secreta" / "fotografia.png"
+salida = escritorio / "mensaje_recuperado.txt"
+
+# Comprobar que existe la fotografía
+if not imagen.is_file():
+    raise FileNotFoundError("No existe la fotografia con el mensaje oculto.")
+
+# Abrir fotografía
+with Image.open(imagen) as foto:
+    imagen_rgb = foto.convert("RGB")
+    pixeles = list(imagen_rgb.getdata())
+
+# Extraer bits menos significativos
+bits = [
+    canal & 1
+    for pixel in pixeles
+    for canal in pixel
+]
+
+# Reconstruir bytes
+def leer_byte(inicio):
+    valor = 0
+
+    for bit in bits[inicio:inicio + 8]:
+        valor = (valor << 1) | bit
+
+    return valor
+
+# Recuperar longitud del mensaje
+longitud = 0
+
+for i in range(4):
+    longitud = (longitud << 8) | leer_byte(i * 8)
+
+# Comprobar longitud
+if (longitud + 4) * 8 > len(bits):
+    raise ValueError("Longitud del mensaje no valida.")
+
+# Recuperar mensaje
+datos = bytes(
+    leer_byte(32 + i * 8)
+    for i in range(longitud)
+)
+
+# Guardar mensaje recuperado
+salida.write_bytes(datos)
+
+print("Mensaje recuperado correctamente.")
+print("Archivo:", salida)
+print()
+print(datos.decode("utf-8"))
+```
+
+### Guardar y cerrar Nano
+
+Una vez introducido el código, utilizaremos las siguientes combinaciones:
+
+- **Control + O:** Guardar el archivo.
+- **Enter:** Confirmar el nombre.
+- **Control + X:** Salir de Nano.
+
+### Resultados
+
+El programa `extraer_mensaje.py` ha quedado guardado en el Escritorio.
+
+
 [← Volver al inicio](../README.md)
