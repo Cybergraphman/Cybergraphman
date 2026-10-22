@@ -392,4 +392,59 @@ OK: Los mensajes son idénticos
 ```
 
 
+### Análisis de los píxeles modificados mediante esteganografía LSB
+
+Utilizaremos Terminal para comparar los píxeles de ambas fotografías y determinar cuántos fueron modificados durante el procedimiento de esteganografía.
+
+### Comando
+
+Ejecutamos:
+
+```bash
+python3 - <<'PY'
+from PIL import Image
+from pathlib import Path
+
+escritorio = Path.home() / "Desktop"
+
+original = escritorio / "fotografia.png"
+modificada = escritorio / "fotografia secreta" / "fotografia.png"
+
+with Image.open(original) as foto:
+    imagen_original = foto.convert("RGB")
+
+with Image.open(modificada) as foto:
+    imagen_modificada = foto.convert("RGB")
+
+if imagen_original.size != imagen_modificada.size:
+    raise ValueError("Las fotografías tienen dimensiones diferentes.")
+
+pixeles_originales = list(imagen_original.getdata())
+pixeles_modificados = list(imagen_modificada.getdata())
+
+total = len(pixeles_originales)
+
+modificados = sum(
+    pixel_original != pixel_modificado
+    for pixel_original, pixel_modificado
+    in zip(pixeles_originales, pixeles_modificados)
+)
+
+porcentaje = (modificados / total) * 100
+
+print("Píxeles totales:", total)
+print("Píxeles modificados:", modificados)
+print(f"Porcentaje modificado: {porcentaje:.6f} %")
+PY
+```
+
+### Resultados
+
+```text
+Píxeles totales: 2442240
+Píxeles modificados: 554
+Porcentaje modificado: 0.022684 %
+```
+
+
 [← Volver al inicio](../README.md)
