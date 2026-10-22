@@ -12,4 +12,8 @@ La esteganografía digital es una técnica que permite ocultar información, com
 
 El procedimiento permitirá generar dos fotografías con el mismo nombre y apariencia prácticamente idéntica, pero con diferente contenido binario, comprobable mediante sus huellas digitales SHA-256.
 
+### Preparación de la fotografía
+
+Para realizar el procedimiento de esteganografía utilizaremos una fotografía en formato PNG. La fotografía deberá encontrarse en el Escritorio con el nombre `fotografia.png`.
+
 [← Volver al inicio](../README.md)
