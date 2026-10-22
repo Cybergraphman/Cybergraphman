@@ -375,4 +375,21 @@ La esteganografía digital utilizando Terminal, es lo único que necesitas para 
 El archivo `mensaje_recuperado.txt` ha quedado guardado en el Escritorio y contiene el mensaje extraído de la fotografía.
 
 
+### Verificación de integridad del mensaje recuperado
+
+Utilizaremos Terminal para comprobar que el mensaje recuperado de la fotografía es idéntico al mensaje original, verificando que no se haya producido ninguna alteración durante el procedimiento de esteganografía.
+
+### Comando
+
+```bash
+cmp ~/Desktop/mensaje.txt ~/Desktop/mensaje_recuperado.txt && echo "OK: Los mensajes son idénticos"
+```
+
+### Resultados
+
+```text
+OK: Los mensajes son idénticos
+```
+
+
 [← Volver al inicio](../README.md)
