@@ -236,4 +236,26 @@ Ambas fotografías conservan el nombre `fotografia.png`, pero están ubicadas en
 La fotografía original permanece sin modificaciones.
 
 
+### Verificación de las fotografías mediante SHA-256
+
+Utilizaremos Terminal para calcular las huellas digitales SHA-256 de ambas fotografías y comprobar si sus contenidos binarios son diferentes.
+
+### Comando
+
+```bash
+shasum -a 256 ~/Desktop/fotografia.png ~/Desktop/"fotografia secreta"/fotografia.png
+```
+
+### Resultados
+
+```text
+ce2a501425c8a0607fbc8c456bd46db99ff06b120e1346b358db15eb1a47ec6f  /Users/cybergraphman/Desktop/fotografia.png
+b172723fcab76c52ca52adbda98b52bd0d60046bafbd3a42fb358727376110c8  /Users/cybergraphman/Desktop/fotografia secreta/fotografia.png
+```
+
+**Verificación satisfactoria.** Las fotografías presentan huellas digitales SHA-256 diferentes, lo que confirma que sus contenidos binarios no son idénticos.
+
+Aunque ambas conservan el mismo nombre y una apariencia prácticamente idéntica, la segunda contiene el mensaje oculto mediante la técnica LSB.
+
+
 [← Volver al inicio](../README.md)
