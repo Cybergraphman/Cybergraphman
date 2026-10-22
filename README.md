@@ -1,4 +1,8 @@
-![Portada CYBERGRAPHMAN](Recursos/gh_portada_cybergraphman.png)
+<p align="center">
+  <img src="Recursos/gh_portada_cybergraphman.png"
+       alt="Cybergraphman"
+       width="100%">
+</p>
 
 ### Cybergraphman
 
