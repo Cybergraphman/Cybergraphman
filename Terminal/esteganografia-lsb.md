@@ -349,4 +349,30 @@ Una vez introducido el código, utilizaremos las siguientes combinaciones:
 El programa `extraer_mensaje.py` ha quedado guardado en el Escritorio.
 
 
+### Ejecución del programa para recuperar el mensaje oculto
+
+Utilizaremos Terminal para ejecutar el programa `extraer_mensaje.py` y recuperar el mensaje de texto oculto dentro de la fotografía mediante la técnica LSB.
+
+### Comando
+
+Ejecutamos:
+
+```bash
+python3 ~/Desktop/extraer_mensaje.py
+```
+
+### Resultados
+
+Terminal mostrará el mensaje recuperado:
+
+```text
+Mensaje recuperado correctamente.
+Archivo: /Users/cybergraphman/Desktop/mensaje_recuperado.txt
+
+La esteganografía digital utilizando Terminal, es lo único que necesitas para esconder ese mensaje que requiere entregarse de manera casi anónima, porque si la fotografía es interceptada por un sujeto que conoce las técnicas, lo puede descifrar antes de ser entregado.
+```
+
+El archivo `mensaje_recuperado.txt` ha quedado guardado en el Escritorio y contiene el mensaje extraído de la fotografía.
+
+
 [← Volver al inicio](../README.md)
