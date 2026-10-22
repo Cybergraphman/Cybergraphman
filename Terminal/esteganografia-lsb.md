@@ -198,7 +198,7 @@ python3 ~/Desktop/esteganografia.py
 
 ### Resultados
 
-Si el procedimiento se ejecuta correctamente, Terminal mostrará un resultado similar al siguiente:
+Si el procedimiento se ejecuta correctamente, Terminal mostrará lo siguiente:
 
 ```text
 Mensaje ocultado correctamente.
