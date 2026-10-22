@@ -16,25 +16,6 @@ El procedimiento permitirá generar dos fotografías con el mismo nombre y apari
 
 Para realizar el procedimiento de esteganografía utilizaremos una fotografía en formato PNG. La fotografía deberá encontrarse en el Escritorio con el nombre `fotografia.png`.
 
-### Verificación de la fotografía
-
-Para comprobar que la fotografía existe y verificar sus dimensiones, ejecutamos el siguiente comando en Terminal:
-
-```bash
-sips -g format -g pixelWidth -g pixelHeight ~/Desktop/fotografia.png
-```
-
-### Resultados
-
-La fotografía tiene unas dimensiones de 1920 × 1272 píxeles, equivalentes a 2,442,240 píxeles.
-
-```text
-/Users/cybergraphman/Desktop/fotografia.png
-  format: png
-  pixelWidth: 1920
-  pixelHeight: 1272
-```
-
 ### Creación del mensaje
 
 Utilizaremos Terminal para crear un archivo de texto llamado `mensaje.txt`, que contendrá el mensaje que posteriormente ocultaremos dentro de la fotografía.
@@ -236,28 +217,6 @@ Ambas fotografías conservan el nombre `fotografia.png`, pero están ubicadas en
 La fotografía original permanece sin modificaciones.
 
 
-### Verificación de las fotografías mediante SHA-256
-
-Utilizaremos Terminal para calcular las huellas digitales SHA-256 de ambas fotografías y comprobar si sus contenidos binarios son diferentes.
-
-### Comando
-
-```bash
-shasum -a 256 ~/Desktop/fotografia.png ~/Desktop/"fotografia secreta"/fotografia.png
-```
-
-### Resultados
-
-```text
-ce2a501425c8a0607fbc8c456bd46db99ff06b120e1346b358db15eb1a47ec6f  /Users/cybergraphman/Desktop/fotografia.png
-b172723fcab76c52ca52adbda98b52bd0d60046bafbd3a42fb358727376110c8  /Users/cybergraphman/Desktop/fotografia secreta/fotografia.png
-```
-
-**Verificación satisfactoria.** Las fotografías presentan huellas digitales SHA-256 diferentes, lo que confirma que sus contenidos binarios no son idénticos.
-
-Aunque ambas conservan el mismo nombre y una apariencia prácticamente idéntica, la segunda contiene el mensaje oculto mediante la técnica LSB.
-
-
 ### Recuperación del mensaje oculto
 
 Utilizaremos **Nano** para crear un segundo programa Python que permitirá extraer el mensaje oculto dentro de la fotografía mediante la técnica LSB.
@@ -375,30 +334,46 @@ La esteganografía digital utilizando Terminal, es lo único que necesitas para 
 El archivo `mensaje_recuperado.txt` ha quedado guardado en el Escritorio y contiene el mensaje extraído de la fotografía.
 
 
-### Verificación de integridad del mensaje recuperado
+### Resultados finales
 
-Utilizaremos Terminal para comprobar que el mensaje recuperado de la fotografía es idéntico al mensaje original, verificando que no se haya producido ninguna alteración durante el procedimiento de esteganografía.
+Los siguientes comandos permiten verificar las características de las fotografías y la integridad del mensaje recuperado.
 
-### Comando
+#### Dimensiones de la fotografía
 
 ```bash
-cmp ~/Desktop/mensaje.txt ~/Desktop/mensaje_recuperado.txt && echo "OK: Los mensajes son idénticos"
+sips -g format -g pixelWidth -g pixelHeight ~/Desktop/fotografia.png
 ```
-
-### Resultados
 
 ```text
-OK: Los mensajes son idénticos
+/Users/cybergraphman/Desktop/fotografia.png
+  format: png
+  pixelWidth: 1920
+  pixelHeight: 1272
 ```
 
+#### Tamaño de los archivos
 
-### Análisis de los píxeles modificados mediante esteganografía LSB
+```bash
+stat -f "%N: %z bytes" ~/Desktop/fotografia.png ~/Desktop/"fotografia secreta"/fotografia.png
+```
 
-Utilizaremos Terminal para comparar los píxeles de ambas fotografías y determinar cuántos fueron modificados durante el procedimiento de esteganografía.
+```text
+/Users/cybergraphman/Desktop/fotografia.png: 3134412 bytes
+/Users/cybergraphman/Desktop/fotografia secreta/fotografia.png: 2837465 bytes
+```
 
-### Comando
+#### Huellas digitales SHA-256
 
-Ejecutamos:
+```bash
+shasum -a 256 ~/Desktop/fotografia.png ~/Desktop/"fotografia secreta"/fotografia.png
+```
+
+```text
+ce2a501425c8a0607fbc8c456bd46db99ff06b120e1346b358db15eb1a47ec6f  /Users/cybergraphman/Desktop/fotografia.png
+b172723fcab76c52ca52adbda98b52bd0d60046bafbd3a42fb358727376110c8  /Users/cybergraphman/Desktop/fotografia secreta/fotografia.png
+```
+
+#### Píxeles modificados
 
 ```bash
 python3 - <<'PY'
@@ -438,16 +413,23 @@ print(f"Porcentaje modificado: {porcentaje:.6f} %")
 PY
 ```
 
-### Resultados
-
 ```text
 Píxeles totales: 2442240
 Píxeles modificados: 554
 Porcentaje modificado: 0.022684 %
 ```
 
+#### Integridad del mensaje recuperado
 
-### Resultados finales
+```bash
+cmp ~/Desktop/mensaje.txt ~/Desktop/mensaje_recuperado.txt && echo "OK: Los mensajes son idénticos"
+```
+
+```text
+OK: Los mensajes son idénticos
+```
+
+#### Resumen de resultados
 
 **Fotografía original**
 
@@ -455,11 +437,7 @@ Porcentaje modificado: 0.022684 %
 - Dimensiones: 1920 × 1272 píxeles
 - Píxeles totales: 2,442,240
 - Tamaño del archivo: 3,134,412 bytes
-- SHA-256:
-
-```text
-ce2a501425c8a0607fbc8c456bd46db99ff06b120e1346b358db15eb1a47ec6f
-```
+- SHA-256: `ce2a501425c8a0607fbc8c456bd46db99ff06b120e1346b358db15eb1a47ec6f`
 
 **Fotografía con mensaje oculto**
 
@@ -469,11 +447,7 @@ ce2a501425c8a0607fbc8c456bd46db99ff06b120e1346b358db15eb1a47ec6f
 - Píxeles modificados: 554
 - Porcentaje modificado: 0.022684 %
 - Tamaño del archivo: 2,837,465 bytes
-- SHA-256:
-
-```text
-b172723fcab76c52ca52adbda98b52bd0d60046bafbd3a42fb358727376110c8
-```
+- SHA-256: `b172723fcab76c52ca52adbda98b52bd0d60046bafbd3a42fb358727376110c8`
 
 ### Comparación de resultados
 
@@ -484,6 +458,5 @@ b172723fcab76c52ca52adbda98b52bd0d60046bafbd3a42fb358727376110c8
 - **Mensaje oculto:** Recuperado correctamente y sin alteraciones.
 
 La diferencia de peso se debe al proceso de guardado y compresión PNG, por lo que no representa directamente la cantidad de información oculta.
-
 
 [← Volver al inicio](../README.md)
