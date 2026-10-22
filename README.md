@@ -13,13 +13,13 @@ Espacio dedicado a compartir conocimientos, documentar herramientas tecnológica
 ---
 ### Repositorios públicos
 
-💻  **[Información del sistema](Sistema/informacion-sistema-macos.md)**  
+💻  **[Información del sistema](Terminal/informacion-sistema-macos.md)**  
 Apple/macOS/Terminal. Consulta las características de hardware y software.  
 &nbsp;  
-📸 **[Conversión de imágenes](Imagenes/conversion-png-jpg.md)**  
+📸 **[Conversión de imágenes](Terminal/conversion-png-jpg.md)**  
 Apple/macOS/Terminal. Convierte imágenes PNG a JPEG.  
 &nbsp;  
-🎧 **[Conversión de audio](Audio/conversion-wav-mp3.md)**  
+🎧 **[Conversión de audio](Terminal/conversion-wav-mp3.md)**  
 Apple/macOS/Terminal. Convierte archivos WAV a MP3 utilizando FFmpeg.
 
 ---
