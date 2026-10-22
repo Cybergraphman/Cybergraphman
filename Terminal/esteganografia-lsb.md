@@ -60,7 +60,7 @@ python3 -m pip show Pillow
 
 ### Resultados
 
-Si Pillow está instalado, Terminal mostrará información similar a la siguiente (la versión dependerá de la instalación):
+Si Pillow está instalado, Terminal mostrará la siguiente información:
 
 ```text
 Name: pillow
