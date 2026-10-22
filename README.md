@@ -20,9 +20,9 @@ Apple/macOS/Terminal. Consulta las características de hardware y software.
 Apple/macOS/Terminal. Convierte imágenes PNG a JPEG.  
 &nbsp;  
 🎧 **[Conversión de audio](Terminal/conversion-wav-mp3.md)**  
-Apple/macOS/Terminal. Convierte archivos WAV a MP3 utilizando FFmpeg.
+Apple/macOS/Terminal. Convierte archivos WAV a MP3 utilizando FFmpeg.  
 &nbsp;  
-🖼️  **[Esteganografía digital](Terminal/esteganografia-lsb.md)**  
+📸  **[Esteganografía digital](Terminal/esteganografia-lsb.md)**  
 Apple/macOS/Terminal. Oculta mensajes en fotografías mediante esteganografía digital utilizando la técnica LSB.
 
 ---
