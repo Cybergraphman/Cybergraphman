@@ -98,4 +98,113 @@ python3 -m pip install --user Pillow
 
 Una vez finalizada la instalación, repetimos el comando de verificación para confirmar que la biblioteca está disponible.
 
+### Creación del programa de esteganografía mediante Nano
+
+Utilizaremos **Nano**, un editor de texto integrado en macOS, para crear el programa Python que ocultará nuestro mensaje dentro de la fotografía mediante la técnica LSB (*Least Significant Bit*).
+
+El programa se guardará en el Escritorio con el nombre `esteganografia.py`.
+
+### Comando
+
+Abrimos Terminal y ejecutamos:
+
+```bash
+nano ~/Desktop/esteganografia.py
+```
+
+### Resultados
+
+Terminal abrirá el editor Nano, donde introduciremos el código Python encargado de modificar los bits menos significativos de los píxeles de la fotografía.
+
+### Código Python
+
+```python
+from PIL import Image
+from pathlib import Path
+
+# Archivos de trabajo
+escritorio = Path.home() / "Desktop"
+
+original = escritorio / "fotografia.png"
+mensaje = escritorio / "mensaje.txt"
+
+carpeta_salida = escritorio / "fotografia secreta"
+salida = carpeta_salida / "fotografia.png"
+
+# Comprobar archivos necesarios
+if not original.is_file():
+    raise FileNotFoundError("No existe la fotografia original.")
+
+if not mensaje.is_file():
+    raise FileNotFoundError("No existe el archivo mensaje.txt.")
+
+# Crear carpeta de salida si no existe
+carpeta_salida.mkdir(parents=True, exist_ok=True)
+
+# Abrir fotografia y preparar mensaje
+with Image.open(original) as foto:
+    imagen = foto.convert("RGB")
+
+datos = mensaje.read_bytes()
+
+# Guardar longitud del mensaje en 4 bytes
+contenido = len(datos).to_bytes(4, "big") + datos
+
+# Convertir contenido en bits
+bits = [
+    (byte >> posicion) & 1
+    for byte in contenido
+    for posicion in range(7, -1, -1)
+]
+
+# Comprobar capacidad de la imagen
+capacidad = imagen.width * imagen.height * 3
+
+if len(bits) > capacidad:
+    raise ValueError("La imagen no tiene capacidad suficiente.")
+
+# Obtener valores RGB
+pixeles = list(imagen.getdata())
+
+valores = [
+    canal
+    for pixel in pixeles
+    for canal in pixel
+]
+
+# Insertar mensaje mediante LSB
+for i, bit in enumerate(bits):
+    valores[i] = (valores[i] & 254) | bit
+
+# Reconstruir pixeles
+nuevos_pixeles = [
+    tuple(valores[i:i + 3])
+    for i in range(0, len(valores), 3)
+]
+
+# Guardar imagen con mensaje oculto
+imagen.putdata(nuevos_pixeles)
+imagen.save(salida, format="PNG")
+
+print("Mensaje ocultado correctamente.")
+print("Archivo generado:", salida)
+print("Dimensiones:", imagen.size)
+print("Bits utilizados:", len(bits))
+```
+
+### Guardar y cerrar Nano
+
+Una vez introducido el código Python, utilizaremos las siguientes combinaciones de teclas para guardar el programa y cerrar el editor Nano.
+
+| Combinación | Función |
+|---|---|
+| `Control + O` | Guardar el archivo |
+| `Enter` | Confirmar el nombre |
+| `Control + X` | Salir de Nano |
+
+### Resultados
+
+El programa `esteganografia.py` ha quedado guardado en el Escritorio.
+
+
 [← Volver al inicio](../README.md)
