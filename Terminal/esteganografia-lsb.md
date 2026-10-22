@@ -459,4 +459,21 @@ OK: Los mensajes son idénticos
 
 La diferencia de peso se debe al proceso de guardado y compresión PNG, por lo que no representa directamente la cantidad de información oculta.
 
+### Conclusiones
+
+La práctica permitió demostrar el funcionamiento de la esteganografía digital mediante la técnica LSB (*Least Significant Bit*), ocultando un mensaje de texto dentro de una fotografía en formato PNG.
+
+Visualmente, ambas fotografías presentan una apariencia idéntica y conservan sus dimensiones originales de **1920 × 1272 píxeles**, equivalentes a **2,442,240 píxeles**.
+
+El análisis permitió comprobar que únicamente **554 píxeles fueron modificados**, lo que representa el **0.022684 %** del total, sin producir diferencias perceptibles a simple vista.
+
+Aunque ambas fotografías conservan el mismo nombre y las mismas dimensiones, sus tamaños de archivo son diferentes. La fotografía original ocupa **3,134,412 bytes**, mientras que la fotografía con el mensaje oculto ocupa **2,837,465 bytes**, una diferencia de **296,947 bytes**.
+
+La comparación mediante el algoritmo SHA-256 confirmó que ambas fotografías poseen contenidos binarios diferentes, a pesar de su apariencia visual idéntica.
+
+Finalmente, el procedimiento de extracción permitió recuperar el mensaje oculto sin alteraciones, comprobando su integridad mediante una comparación directa con el archivo de texto original.
+
+La práctica demuestra que la esteganografía digital permite ocultar información dentro de una fotografía sin modificar perceptiblemente su apariencia. Sin embargo, **esta técnica no garantiza la confidencialidad del mensaje**, ya que su contenido puede recuperarse si un tercero conoce el procedimiento utilizado.
+
+
 [← Volver al inicio](../README.md)
