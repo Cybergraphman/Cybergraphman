@@ -207,4 +207,37 @@ Una vez introducido el código Python, utilizaremos las siguientes combinaciones
 El programa `esteganografia.py` ha quedado guardado en el Escritorio.
 
 
+### Ejecución del programa de esteganografía
+
+Una vez guardado el programa `esteganografia.py`, ejecutamos el siguiente comando en Terminal para ocultar el mensaje de texto dentro de la fotografía mediante la técnica LSB.
+
+### Comando
+
+```bash
+python3 ~/Desktop/esteganografia.py
+```
+
+### Resultados
+
+Si el procedimiento se ejecuta correctamente, Terminal mostrará un resultado similar al siguiente:
+
+```text
+Mensaje ocultado correctamente.
+Archivo generado: /Users/cybergraphman/Desktop/fotografia secreta/fotografia.png
+Dimensiones: (1920, 1272)
+Bits utilizados: 2088
+```
+
+Se ha creado automáticamente la carpeta `fotografia secreta` en el Escritorio, que contiene la fotografía con el mensaje oculto.
+
+Ambas fotografías conservan el nombre `fotografia.png`, pero están ubicadas en carpetas diferentes:
+
+| Fotografía | Ubicación |
+|---|---|
+| Original | `~/Desktop/fotografia.png` |
+| Con mensaje oculto | `~/Desktop/fotografia secreta/fotografia.png` |
+
+La fotografía original permanece sin modificaciones.
+
+
 [← Volver al inicio](../README.md)
