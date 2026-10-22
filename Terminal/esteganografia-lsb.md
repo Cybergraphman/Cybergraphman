@@ -196,11 +196,9 @@ print("Bits utilizados:", len(bits))
 
 Una vez introducido el código Python, utilizaremos las siguientes combinaciones de teclas para guardar el programa y cerrar el editor Nano.
 
-| Combinación | Función |
-|---|---|
-| `Control + O` | Guardar el archivo |
-| `Enter` | Confirmar el nombre |
-| `Control + X` | Salir de Nano |
+- **Control + O:** Guardar el archivo.
+- **Enter:** Confirmar el nombre.
+- **Control + X:** Salir de Nano.
 
 ### Resultados
 
@@ -232,10 +230,8 @@ Se ha creado automáticamente la carpeta `fotografia secreta` en el Escritorio, 
 
 Ambas fotografías conservan el nombre `fotografia.png`, pero están ubicadas en carpetas diferentes:
 
-| Fotografía | Ubicación |
-|---|---|
-| Original | `~/Desktop/fotografia.png` |
-| Con mensaje oculto | `~/Desktop/fotografia secreta/fotografia.png` |
+- **Fotografía original:** `~/Desktop/fotografia.png`
+- **Fotografía con mensaje oculto:** `~/Desktop/fotografia secreta/fotografia.png`
 
 La fotografía original permanece sin modificaciones.
 
