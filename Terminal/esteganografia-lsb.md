@@ -447,4 +447,43 @@ Porcentaje modificado: 0.022684 %
 ```
 
 
+### Resultados finales
+
+**Fotografía original**
+
+- Nombre: `fotografia.png`
+- Dimensiones: 1920 × 1272 píxeles
+- Píxeles totales: 2,442,240
+- Tamaño del archivo: 3,134,412 bytes
+- SHA-256:
+
+```text
+ce2a501425c8a0607fbc8c456bd46db99ff06b120e1346b358db15eb1a47ec6f
+```
+
+**Fotografía con mensaje oculto**
+
+- Nombre: `fotografia.png`
+- Dimensiones: 1920 × 1272 píxeles
+- Píxeles totales: 2,442,240
+- Píxeles modificados: 554
+- Porcentaje modificado: 0.022684 %
+- Tamaño del archivo: 2,837,465 bytes
+- SHA-256:
+
+```text
+b172723fcab76c52ca52adbda98b52bd0d60046bafbd3a42fb358727376110c8
+```
+
+### Comparación de resultados
+
+- **Dimensiones:** Idénticas.
+- **Apariencia visual:** Idénticas.
+- **Contenido binario:** Diferente.
+- **Tamaño del archivo:** La fotografía modificada ocupa 296,947 bytes menos.
+- **Mensaje oculto:** Recuperado correctamente y sin alteraciones.
+
+La diferencia de peso se debe al proceso de guardado y compresión PNG, por lo que no representa directamente la cantidad de información oculta.
+
+
 [← Volver al inicio](../README.md)
