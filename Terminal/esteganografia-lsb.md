@@ -16,4 +16,23 @@ El procedimiento permitirá generar dos fotografías con el mismo nombre y apari
 
 Para realizar el procedimiento de esteganografía utilizaremos una fotografía en formato PNG. La fotografía deberá encontrarse en el Escritorio con el nombre `fotografia.png`.
 
+### Verificación de la fotografía
+
+Para comprobar que la fotografía existe y verificar sus dimensiones, ejecutamos el siguiente comando en Terminal:
+
+```bash
+sips -g format -g pixelWidth -g pixelHeight ~/Desktop/fotografia.png
+```
+
+### Resultados
+
+La fotografía tiene unas dimensiones de 1920 × 1272 píxeles, equivalentes a 2,442,240 píxeles.
+
+```text
+/Users/cybergraphman/Desktop/fotografia.png
+  format: png
+  pixelWidth: 1920
+  pixelHeight: 1272
+```
+
 [← Volver al inicio](../README.md)
