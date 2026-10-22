@@ -67,10 +67,20 @@ Apple/macOS/Terminal. Convierte archivos WAV a MP3 utilizando FFmpeg.
 
 ---
 
-<h3 align="center">Cybergraphman <span style="color:#808080;">Podcast</span></h3>
+<h3 align="center">Cybergraphman | Podcast</h3>
 
 <p align="center">
   <a href="https://open.spotify.com/show/4xlG5MCo8kZGhPvISuXwrX">
-    <img src="https://img.shields.io/badge/Spotify-Escucha%20en%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Escucha en Spotify">
+    <img src="https://img.shields.io/badge/Spotify-Escucha%20en%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"
+         alt="Cybergraphman Podcast">
+  </a>
+</p>
+
+<h3 align="center">Cybergraphman | Music</h3>
+
+<p align="center">
+  <a href="https://open.spotify.com/artist/1cYmypoHCsT3ZaC2aVrnvj">
+    <img src="https://img.shields.io/badge/Spotify-Escucha%20en%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"
+         alt="Cybergraphman Music">
   </a>
 </p>
