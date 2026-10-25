@@ -27,7 +27,7 @@ Apple/macOS/Terminal. Oculta mensajes en fotografías mediante esteganografía d
 
 ---
 <details>
-<summary><strong>🎓 Formación académica</strong></summary>
+<summary><strong>Formación académica</strong></summary>
 
 
 
@@ -46,7 +46,7 @@ Apple/macOS/Terminal. Oculta mensajes en fotografías mediante esteganografía d
 </details>
 
 <details>
-<summary><strong>📜 Formación complementaria destacada</strong></summary>
+<summary><strong>Formación complementaria destacada</strong></summary>
 
 
 
@@ -71,7 +71,7 @@ Apple/macOS/Terminal. Oculta mensajes en fotografías mediante esteganografía d
 </details>
 
 <details>
-<summary><strong>🎖️ Membresías profesionales</strong></summary>
+<summary><strong>Membresías profesionales</strong></summary>
 
 
 
