@@ -26,7 +26,10 @@ Apple/macOS/Terminal. Convierte archivos WAV a MP3 utilizando FFmpeg.
 Apple/macOS/Terminal. Oculta mensajes en fotografías mediante esteganografía digital utilizando la técnica LSB.
 
 ---
-### Formación académica  
+<details>
+<summary><strong>🎓 Formación académica</strong></summary>
+
+
 
 🎓 **Colegio Internacional de Ciencias Criminológicas y Forenses (CICCF)**  
 2026 México | Maestrando en Cibercriminología y Ciberseguridad  
@@ -38,9 +41,14 @@ Apple/macOS/Terminal. Oculta mensajes en fotografías mediante esteganografía d
 2025 México | Diplomado en inteligencia aplicada a la seguridad pública  
 &nbsp;  
 🎓 **Universidad Siglo XXI (UNISO)**  
-2021 México | Licenciatura en Diseño Gráfico  
+2021 México | Licenciatura en Diseño Gráfico
 
-### Formación complementaria destacada    
+</details>
+
+<details>
+<summary><strong>📜 Formación complementaria destacada</strong></summary>
+
+
 
 📜 **Institución Interdisciplinaria Jurídica, Fiscal y Forense (IJF)**  
 2026 México | Cómputo forense: desde la extracción del indicio hasta la elaboración y defensa del dictamen  
@@ -58,15 +66,22 @@ Apple/macOS/Terminal. Oculta mensajes en fotografías mediante esteganografía d
 2024 España | Fundamentos de ciberseguridad para usuarios    
 &nbsp;  
 📜 **KnowBe4**  
-2017 Estados Unidos | Kevin Mitnick Security Awareness Training  
+2017 Estados Unidos | Kevin Mitnick Security Awareness Training
 
-### Membresías profesionales  
+</details>
+
+<details>
+<summary><strong>🎖️ Membresías profesionales</strong></summary>
+
+
 
 🎖️ **Asociación Internacional de Ciberseguridad (ASICI)**  
 2026 España | Miembro afiliado  
 &nbsp;  
 🎖️ **Colegio de Inteligencia, Seguridad y Ciencias Forenses (CISCF)**  
-2026 México | Miembro afiliado    
+2026 México | Miembro afiliado  
+
+</details>
 
 ---
 
