@@ -41,6 +41,8 @@ Apple/macOS/Terminal. Oculta mensajes en fotografías mediante esteganografía d
 <details>
 <summary><strong>Formación académica</strong></summary>
 
+<br>
+
 
 
 🎓 **Colegio Internacional de Ciencias Criminológicas y Forenses (CICCF)**  
@@ -59,6 +61,8 @@ Apple/macOS/Terminal. Oculta mensajes en fotografías mediante esteganografía d
 
 <details>
 <summary><strong>Formación complementaria destacada</strong></summary>
+
+<br>
 
 
 
@@ -84,6 +88,8 @@ Apple/macOS/Terminal. Oculta mensajes en fotografías mediante esteganografía d
 
 <details>
 <summary><strong>Membresías profesionales</strong></summary>
+
+<br>
 
 
 
