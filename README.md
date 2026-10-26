@@ -14,7 +14,7 @@ Espacio dedicado a compartir conocimientos, documentar herramientas tecnológica
 
 ---
 
-<h3 align="center">Repositorios</h3>
+<h3 align="left">Repositorios</h3>
 
 <details>
 <summary><strong>Repositorios públicos</strong></summary>
@@ -38,7 +38,7 @@ Apple/macOS/Terminal. Oculta mensajes en fotografías mediante esteganografía d
 
 ---
 
-<h3 align="center">Credenciales</h3>
+<h3 align="left">Credenciales</h3>
 
 <details>
 <summary><strong>Formación académica</strong></summary>
@@ -105,7 +105,7 @@ Apple/macOS/Terminal. Oculta mensajes en fotografías mediante esteganografía d
 
 ---
 
-<h3 align="center">Recursos</h3>
+<h3 align="left">Recursos</h3>
 
 <details>
 <summary><strong>Laboratorios</strong></summary>
