@@ -11,7 +11,9 @@
 Espacio dedicado a compartir conocimientos, documentar herramientas tecnológicas y explorar el mundo del **diseño gráfico, la ciberseguridad y el control de calidad**.
 
 ---
-### Repositorios públicos
+<details>
+<summary><strong>Repositorios públicos</strong></summary>
+
 
 💻  **[Información del sistema](Terminal/informacion-sistema-macos.md)**  
 Apple/macOS/Terminal. Consulta las características de hardware y software.  
@@ -24,6 +26,8 @@ Apple/macOS/Terminal. Convierte archivos WAV a MP3 utilizando FFmpeg.
 &nbsp;  
 📸  **[Esteganografía digital](Terminal/esteganografia-lsb.md)**  
 Apple/macOS/Terminal. Oculta mensajes en fotografías mediante esteganografía digital utilizando la técnica LSB.
+
+</details>
 
 ---
 <details>
