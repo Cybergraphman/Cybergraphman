@@ -108,7 +108,7 @@ Apple/macOS/Terminal. Oculta mensajes en fotografías mediante esteganografía d
 <h3 align="center">Recursos</h3>
 
 <details>
-<summary><strong>Laboratorios prácticos y desafíos</strong></summary>
+<summary><strong>Laboratorios</strong></summary>
 
 <br>
 
