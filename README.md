@@ -106,11 +106,11 @@ Apple/macOS/Terminal. Oculta mensajes en fotografías mediante esteganografía d
 ---
 
 <details>
-<summary><strong>Recursos</strong></summary>
+<summary align="center"><strong>Recursos</strong></summary>
 
 <br>
 
-Directorio de herramientas, plataformas de formación y fuentes de consulta relacionadas con la ciberseguridad. Algunos servicios requieren registro o suscripción.
+Directorio multidisciplinario de recursos para ciberseguridad, diseño gráfico, creatividad digital y productividad. Algunos servicios requieren registro, tienen límites gratuitos o cuentan con planes de pago.
 
 <details>
 <summary><strong>Educación y cursos en línea</strong></summary>
@@ -206,6 +206,62 @@ Los mapas reflejan los datos disponibles de cada proveedor; no representan la to
 - [MITRE ATT&CK](https://attack.mitre.org/) — tácticas y técnicas de adversarios documentadas.
 - [NIST National Vulnerability Database](https://nvd.nist.gov/) — información sobre vulnerabilidades de seguridad.
 - [CISA Known Exploited Vulnerabilities](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) — catálogo de vulnerabilidades explotadas conocidas.
+
+
+</details>
+
+<details>
+<summary><strong>Diseño gráfico y edición de imágenes</strong></summary>
+
+<br>
+
+- [Inkscape](https://inkscape.org/) — ilustración vectorial y edición SVG de código abierto.
+- [GIMP](https://www.gimp.org/) — retoque fotográfico y edición de imágenes; alternativa gratuita a Photoshop.
+- [Krita](https://krita.org/) — pintura digital e ilustración de código abierto.
+- [Photopea](https://www.photopea.com/) — editor de imágenes en el navegador, compatible con archivos PSD; versión gratuita.
+- [Pixlr](https://pixlr.com/) — edición fotográfica en línea; dispone de opciones gratuitas con límites.
+- [Scribus](https://www.scribus.net/) — diseño editorial y maquetación de publicaciones.
+
+</details>
+
+<details>
+<summary><strong>Fotografías, vectores, iconos y tipografías</strong></summary>
+
+<br>
+
+- [Unsplash](https://unsplash.com/) — fotografías gratuitas y contenido de suscripción.
+- [Pexels](https://www.pexels.com/) — fotografías y videos gratuitos.
+- [Pixabay](https://pixabay.com/) — fotografías, ilustraciones, vectores, videos y audio.
+- [Openverse](https://openverse.org/) — buscador de obras con licencias abiertas.
+- [Google Fonts](https://fonts.google.com/) — familias tipográficas de código abierto.
+- [SVG Repo](https://www.svgrepo.com/) — iconos e ilustraciones vectoriales SVG.
+
+Comprueba las condiciones de licencia y atribución de cada recurso antes de reutilizarlo.
+
+</details>
+
+<details>
+<summary><strong>Ofimática gratuita</strong></summary>
+
+<br>
+
+- [LibreOffice](https://www.libreoffice.org/download/) — procesador de textos, hojas de cálculo, presentaciones y Draw.
+- [Apache OpenOffice](https://www.openoffice.org/download/) — suite ofimática gratuita y de código abierto.
+- [ONLYOFFICE Desktop Editors](https://www.onlyoffice.com/es/download-desktop) — editores gratuitos de documentos, hojas de cálculo y presentaciones.
+
+</details>
+
+<details>
+<summary><strong>Edición y gestión de PDF</strong></summary>
+
+<br>
+
+- [PDFgear](https://www.pdfgear.com/es/) — edición, lectura, firma y organización de archivos PDF.
+- [PDF24 Tools](https://tools.pdf24.org/es/) — herramientas web gratuitas para editar, convertir, comprimir y unir PDF.
+- [PDFsam Basic](https://pdfsam.org/pdfsam-basic/) — aplicación gratuita para dividir, unir y reorganizar páginas de PDF sin subir archivos.
+- [LibreOffice Draw](https://www.libreoffice.org/) — permite abrir y modificar contenido de muchos documentos PDF.
+
+Para documentos confidenciales, prefiere herramientas locales. Si utilizas macOS Catalina, verifica los requisitos de cada versión antes de instalarla.
 
 </details>
 
