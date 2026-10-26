@@ -123,6 +123,20 @@ Apple/macOS/Terminal. Oculta mensajes en fotografías mediante esteganografía d
 
 </details>
 
+<details>
+<summary><strong>Entornos</strong></summary>
+
+<br>
+
+- [Kali Linux](https://www.kali.org/)
+- [Security Onion](https://securityonionsolutions.com/)
+- [REMnux](https://remnux.org/)
+- [FLARE-VM](https://github.com/mandiant/flare-vm)
+- [Tsurugi Linux](https://tsurugi-linux.org/)
+- [CAINE](https://www.caine-live.net/)
+
+</details>
+
 ---
 
 <h3 align="center">Cybergraphman | Podcast</h3>
