@@ -105,6 +105,114 @@ Apple/macOS/Terminal. Oculta mensajes en fotografías mediante esteganografía d
 
 ---
 
+<details>
+<summary><strong>Recursos</strong></summary>
+
+<br>
+
+Directorio de herramientas, plataformas de formación y fuentes de consulta relacionadas con la ciberseguridad. Algunos servicios requieren registro o suscripción.
+
+<details>
+<summary><strong>Educación y cursos en línea</strong></summary>
+
+<br>
+
+- [Cisco Networking Academy](https://www.netacad.com/) — redes, ciberseguridad, programación y tecnología.
+- [Coursera](https://www.coursera.org/) — cursos y certificados de universidades y organizaciones.
+- [edX](https://www.edx.org/learn/cybersecurity) — cursos y programas de ciberseguridad.
+- [Microsoft Learn](https://learn.microsoft.com/es-es/training/) — rutas de aprendizaje y módulos técnicos.
+- [Cybrary](https://www.cybrary.it/) — formación especializada en ciberseguridad.
+- [OpenLearn](https://www.open.edu/openlearn/) — cursos abiertos de The Open University.
+
+</details>
+
+<details>
+<summary><strong>Laboratorios prácticos y desafíos</strong></summary>
+
+<br>
+
+- [TryHackMe](https://tryhackme.com/) — rutas de aprendizaje y laboratorios interactivos.
+- [Hack The Box Academy](https://academy.hackthebox.com/) — formación práctica de seguridad ofensiva y defensiva.
+- [PortSwigger Web Security Academy](https://portswigger.net/web-security) — laboratorios de seguridad en aplicaciones web.
+- [CyberDefenders](https://cyberdefenders.org/blue-team-labs/) — ejercicios de análisis forense, SOC y respuesta a incidentes.
+- [OverTheWire](https://overthewire.org/wargames/) — desafíos de Linux y seguridad.
+- [CyLab Security Academy](https://cylabacademy.org/) — formación y desafíos de ciberseguridad; sucesora de la plataforma educativa picoCTF.
+
+</details>
+
+<details>
+<summary><strong>Infraestructura global y cables submarinos</strong></summary>
+
+<br>
+
+- [TeleGeography Submarine Cable Map](https://www.submarinecablemap.com/) — mapa interactivo de cables submarinos y estaciones de aterrizaje.
+- [Mapa de banda ancha de la UIT](https://bbmaps.itu.int/app) — infraestructura de telecomunicaciones y conectividad mundial.
+
+</details>
+
+<details>
+<summary><strong>Satélites y seguimiento orbital</strong></summary>
+
+<br>
+
+- [N2YO](https://www.n2yo.com/) — seguimiento y predicción de pasos de satélites.
+- [CelesTrak](https://celestrak.org/) — datos orbitales y conjuntos de elementos para seguimiento.
+- [SatNOGS Network](https://network.satnogs.org/) — red abierta de estaciones terrestres y observaciones satelitales.
+
+</details>
+
+<details>
+<summary><strong>Ciberamenazas y estado de Internet</strong></summary>
+
+<br>
+
+- [Kaspersky Cyberthreat Live Map](https://cybermap.kaspersky.com/) — visualización de detecciones de amenazas.
+- [Check Point Live Cyber Threat Map](https://threatmap.checkpoint.com/) — mapa de actividad de amenazas observada.
+- [FortiGuard Threat Map](https://fortiguard.fortinet.com/threat-map) — visualización de amenazas detectadas por Fortinet.
+- [Cloudflare Radar](https://radar.cloudflare.com/) — tendencias de tráfico, ataques e interrupciones de Internet.
+
+Los mapas reflejan los datos disponibles de cada proveedor; no representan la totalidad de los ciberataques mundiales.
+
+</details>
+
+<details>
+<summary><strong>Filtraciones de datos y seguridad de cuentas</strong></summary>
+
+<br>
+
+- [Have I Been Pwned](https://haveibeenpwned.com/) — comprueba si una dirección de correo aparece en filtraciones conocidas.
+- [Mozilla Monitor](https://monitor.mozilla.org/es-MX) — consulta filtraciones y recibe orientación para proteger cuentas.
+
+</details>
+
+<details>
+<summary><strong>OSINT y análisis de indicadores</strong></summary>
+
+<br>
+
+- [VirusTotal](https://www.virustotal.com/) — consulta reputación y análisis de archivos, URLs, dominios e IP.
+- [urlscan.io](https://urlscan.io/) — analiza sitios web y consulta escaneos de URLs.
+- [Shodan](https://www.shodan.io/) — busca servicios y dispositivos expuestos en Internet.
+- [Censys](https://platform.censys.io/) — inteligencia sobre activos y servicios accesibles desde Internet.
+- [AbuseIPDB](https://www.abuseipdb.com/) — consulta reportes de abuso asociados con direcciones IP.
+
+</details>
+
+<details>
+<summary><strong>Vulnerabilidades y marcos de referencia</strong></summary>
+
+<br>
+
+- [MITRE ATT&CK](https://attack.mitre.org/) — tácticas y técnicas de adversarios documentadas.
+- [NIST National Vulnerability Database](https://nvd.nist.gov/) — información sobre vulnerabilidades de seguridad.
+- [CISA Known Exploited Vulnerabilities](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) — catálogo de vulnerabilidades explotadas conocidas.
+
+</details>
+
+</details>
+
+---
+
 <h3 align="center">Cybergraphman | Podcast</h3>
 
 <p align="center">
