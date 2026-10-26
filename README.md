@@ -112,8 +112,8 @@ Apple/macOS/Terminal. Oculta mensajes en fotografías mediante esteganografía d
 
 <br>
 
-- [TryHackMe](https://tryhackme.com/) — rutas de aprendizaje y laboratorios interactivos de ciberseguridad.
-- [Hack The Box](https://www.hackthebox.com/) — laboratorios y desafíos prácticos de seguridad ofensiva y defensiva.
+- [TryHackMe](https://tryhackme.com/)
+- [Hack The Box](https://www.hackthebox.com/)
 
 </details>
 
