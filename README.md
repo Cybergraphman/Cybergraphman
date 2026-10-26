@@ -118,6 +118,8 @@ Apple/macOS/Terminal. Oculta mensajes en fotografías mediante esteganografía d
 - [PortSwigger](https://portswigger.net/web-security)
 - [OverTheWire](https://overthewire.org/wargames/)
 - [CyberDefenders](https://cyberdefenders.org/blue-team-labs/)
+- [Blue Team Labs Online](https://blueteamlabs.online/)
+- [CryptoHack](https://cryptohack.org/)
 
 </details>
 
