@@ -107,6 +107,16 @@ Apple/macOS/Terminal. Oculta mensajes en fotografías mediante esteganografía d
 
 <h3 align="center">Recursos</h3>
 
+<details>
+<summary><strong>Laboratorios prácticos y desafíos</strong></summary>
+
+<br>
+
+- [TryHackMe](https://tryhackme.com/) — rutas de aprendizaje y laboratorios interactivos de ciberseguridad.
+- [Hack The Box](https://www.hackthebox.com/) — laboratorios y desafíos prácticos de seguridad ofensiva y defensiva.
+
+</details>
+
 ---
 
 <h3 align="center">Cybergraphman | Podcast</h3>
