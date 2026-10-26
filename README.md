@@ -115,6 +115,9 @@ Apple/macOS/Terminal. Oculta mensajes en fotografías mediante esteganografía d
 - [TryHackMe](https://tryhackme.com/)
 - [Hack The Box](https://www.hackthebox.com/)
 - [CyLab Security Academy](https://cylabacademy.org/)
+- [PortSwigger](https://portswigger.net/web-security)
+- [OverTheWire](https://overthewire.org/wargames/)
+- [CyberDefenders](https://cyberdefenders.org/blue-team-labs/)
 
 </details>
 
