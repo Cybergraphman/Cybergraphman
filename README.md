@@ -19,6 +19,8 @@ Espacio dedicado a compartir conocimientos, documentar herramientas tecnológica
 <details>
 <summary><strong>Repositorios públicos</strong></summary>
 
+<br>
+
 
 💻  **[Información del sistema](Terminal/informacion-sistema-macos.md)**  
 Apple/macOS/Terminal. Consulta las características de hardware y software.  
