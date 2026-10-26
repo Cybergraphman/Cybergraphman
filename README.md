@@ -105,12 +105,7 @@ Apple/macOS/Terminal. Oculta mensajes en fotografías mediante esteganografía d
 
 ---
 
-<details>
-<summary align="center"><strong>Recursos</strong></summary>
-
-<br>
-
-Directorio multidisciplinario de recursos para ciberseguridad, diseño gráfico, creatividad digital y productividad. Algunos servicios requieren registro, tienen límites gratuitos o cuentan con planes de pago.
+<h3 align="center">Recursos</h3>
 
 <details>
 <summary><strong>Educación y cursos en línea</strong></summary>
@@ -262,8 +257,6 @@ Comprueba las condiciones de licencia y atribución de cada recurso antes de reu
 - [LibreOffice Draw](https://www.libreoffice.org/) — permite abrir y modificar contenido de muchos documentos PDF.
 
 Para documentos confidenciales, prefiere herramientas locales. Si utilizas macOS Catalina, verifica los requisitos de cada versión antes de instalarla.
-
-</details>
 
 </details>
 
