@@ -17,7 +17,7 @@ Espacio dedicado a compartir conocimientos, documentar herramientas tecnológica
 <h3 align="left">Repositorios</h3>
 
 <details>
-<summary><strong>Repositorios públicos</strong></summary>
+<summary><strong>Repositorios públicos destacados</strong></summary>
 
 <br>
 
@@ -36,6 +36,13 @@ Apple/macOS/Terminal. Oculta mensajes en fotografías mediante esteganografía d
 &nbsp;  
 📁 **[Ocultación de archivos](Terminal/ocultar-archivos.md)**  
 Apple/macOS/Terminal. Modifica atributos de archivos mediante `chflags hidden` para ocultarlos en Finder.
+
+</details>
+
+<details>
+<summary><strong>Repositorios privados destacados</strong></summary>
+
+<br>
 
 </details>
 
