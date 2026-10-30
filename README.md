@@ -32,7 +32,10 @@ Apple/macOS/Terminal. Convierte imágenes PNG a JPEG.
 Apple/macOS/Terminal. Convierte archivos WAV a MP3 utilizando FFmpeg.  
 &nbsp;  
 📸  **[Esteganografía digital](Terminal/esteganografia-lsb.md)**  
-Apple/macOS/Terminal. Oculta mensajes en fotografías mediante esteganografía digital utilizando la técnica LSB.
+Apple/macOS/Terminal. Oculta mensajes en fotografías mediante esteganografía digital utilizando la técnica LSB.  
+&nbsp;  
+📁 **[Ocultación de archivos](Terminal/ocultar-archivos.md)**  
+Apple/macOS/Terminal. Modifica atributos de archivos mediante `chflags hidden` para ocultarlos en Finder.
 
 </details>
 
