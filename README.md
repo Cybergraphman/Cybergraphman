@@ -80,11 +80,17 @@ Apple/macOS/Terminal. Oculta mensajes en fotografías mediante esteganografía d
 📜 **Junta Interamericana de Defensa (JID)**  
 2026 Organismo Interamericano | Seminario hemisférico de ciberdefensa 2026  
 &nbsp;  
+📜 **Organización de las Naciones Unidas (ONU)**  
+2026 Internacional | Tratado sobre el Comercio de Armas: artículo 7, evaluación de riesgos y criterios de violencia de género  
+&nbsp;  
 📜 **Fundación Comunidad DOJO y Women of Security Panamá (WoSec)**  
 2025 Panamá | Participante becado del bootcamp fundamentos de ciberseguridad  
 &nbsp;  
 📜 **Colegio de Inteligencia, Seguridad y Ciencias Forenses (CISCF)**  
 2025 México | Técnicas forenses de extracción y análisis, de datos de teléfonos celulares  
+&nbsp;  
+📜 **Organización de las Naciones Unidas (ONU)**  
+2025 Internacional | Resolución 1540 (2004) del Consejo de Seguridad de las Naciones Unidas  
 &nbsp;  
 📜 **Universitat Politècnica de València (UPV)**  
 2024 España | Fundamentos de ciberseguridad para usuarios    
