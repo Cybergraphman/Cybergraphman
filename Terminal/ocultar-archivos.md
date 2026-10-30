@@ -5,7 +5,7 @@ Ocultar un archivo del Escritorio de macOS mediante la Terminal, usando el atrib
 
 ## Entorno de la práctica
 - **Equipo:** iMac
-- **Sistema operativo:** macOS Catalina
+- **Sistema operativo:** macOS
 - **Interfaz:** Terminal
 - **Archivo de prueba:** `Cybergraphman.PNG`
 - **Ubicación:** `~/Desktop/Cybergraphman.PNG`
@@ -66,4 +66,4 @@ Este atajo cambia únicamente la visualización de los archivos ocultos, sin eli
 ## Conclusión
 Se ocultó `Cybergraphman.PNG` mediante `chflags hidden`, y su existencia y atributo se comprobaron con `ls -lO`. El procedimiento **no cifra** el archivo ni impide que lo localicen usuarios con permisos y herramientas adecuadas. Es una técnica de ocultación visual mediante atributos del sistema de archivos, no esteganografía ni protección criptográfica.
 
-> Práctica realizada con un archivo propio en macOS Catalina. Esta documentación se limita al procedimiento de ocultación, sin instrucciones de recuperación.
+> Práctica realizada con un archivo propio en macOS. Esta documentación se limita al procedimiento de ocultación, sin instrucciones de recuperación.
