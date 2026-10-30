@@ -24,8 +24,8 @@ El archivo estaba visible en el Escritorio antes de la práctica.
 
 ## 2. Ocultar el archivo
 **Comando:**
-```bash
-chflags hidden ~/Desktop/Cybergraphman.PNG
+```diff
++ chflags hidden ~/Desktop/Cybergraphman.PNG
 ```
 
 **Resultado observado:** el archivo dejó de mostrarse en el Escritorio de Finder. El comando terminó sin presentar un error.
