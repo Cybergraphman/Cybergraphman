@@ -59,11 +59,9 @@ La huella SHA-256 documenta el contenido del archivo al finalizar la práctica. 
 
 macOS permite alternar la visualización de archivos ocultos en Finder mediante el atajo de teclado:
 
-**`Command (⌘) + Shift (⇧) + .`**
+```diff
++ Command (⌘) + Shift (⇧) + .
+```
 
 Este atajo cambia únicamente la visualización de los archivos ocultos, sin eliminar el atributo `hidden` ni modificar su contenido.
 
-## Conclusión
-Se ocultó `Cybergraphman.PNG` mediante `chflags hidden`, y su existencia y atributo se comprobaron con `ls -lO`. El procedimiento **no cifra** el archivo ni impide que lo localicen usuarios con permisos y herramientas adecuadas. Es una técnica de ocultación visual mediante atributos del sistema de archivos, no esteganografía ni protección criptográfica.
-
-> Práctica realizada con un archivo propio en macOS. Se utiliza macOS Golden Gate 27 como referencia editorial; no se identifica públicamente la versión instalada durante el ejercicio. Esta documentación se limita al procedimiento de ocultación, sin instrucciones de recuperación.
