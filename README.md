@@ -50,6 +50,9 @@ Ciberseguridad/Privacidad digital. Monitoreo y análisis del tráfico de red de 
 &nbsp;  
 💻 <strong>Archivos eliminados</strong>  
 Informática forense/Recuperación de datos. Recuperación de archivos eliminados mediante técnicas y herramientas forenses.  
+&nbsp;  
+💻 <strong>Captura de mensajes cifrados</strong>  
+Ciberseguridad/Monitoreo digital. Visualización y registro de mensajes de aplicaciones con cifrado de extremo a extremo.  
 </details>
 
 ---
