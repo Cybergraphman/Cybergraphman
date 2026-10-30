@@ -50,10 +50,10 @@ Apple/macOS/Terminal. Oculta mensajes en fotografías mediante esteganografía d
 🎓 **Colegio Internacional de Ciencias Criminológicas y Forenses (CICCF)**  
 2026 México | Maestrando en Cibercriminología y Ciberseguridad  
 &nbsp;  
-🎓 **Instituto Educativo en Informática y Computación**  
+🎓 **Instituto Educativo en Informática y Computación (INEIN)**  
 2026 México | Diplomado en Ciberseguridad Avanzado  
 &nbsp;  
-🎓 **Instituto Educativo en Informática y Computación**  
+🎓 **Instituto Educativo en Informática y Computación (INEIN)**  
 2025 México | Diplomado en Ciberseguridad Básica  
 &nbsp;  
 🎓 **Federación Mexicana de Criminología y Criminalística (FMCC)**  
