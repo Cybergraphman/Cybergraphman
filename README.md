@@ -44,6 +44,9 @@ Apple/macOS/Terminal. Modifica atributos de archivos mediante `chflags hidden` p
 
 <br>
 
+
+💻 <strong><u>Modo incógnito</u></strong>  
+Ciberseguridad/Privacidad digital. Monitoreo y análisis del tráfico de red de dispositivos, incluso durante sesiones de navegación en modo incógnito.  
 </details>
 
 ---
