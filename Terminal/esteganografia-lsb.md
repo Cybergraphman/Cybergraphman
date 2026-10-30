@@ -192,8 +192,8 @@ Una vez guardado el programa `esteganografia.py`, ejecutamos el siguiente comand
 
 ### Comando
 
-```bash
-python3 ~/Desktop/esteganografia.py
+```diff
++ python3 ~/Desktop/esteganografia.py
 ```
 
 ### Resultados
