@@ -50,6 +50,12 @@ Apple/macOS/Terminal. Oculta mensajes en fotografías mediante esteganografía d
 🎓 **Colegio Internacional de Ciencias Criminológicas y Forenses (CICCF)**  
 2026 México | Maestrando en Cibercriminología y Ciberseguridad  
 &nbsp;  
+🎓 **Instituto Educativo en Informática y Computación**  
+2026 México | Diplomado en Ciberseguridad Avanzado (240 horas académicas)  
+&nbsp;  
+🎓 **Instituto Educativo en Informática y Computación**  
+2025 México | Diplomado en Ciberseguridad Básica (220 horas académicas)  
+&nbsp;  
 🎓 **Federación Mexicana de Criminología y Criminalística (FMCC)**  
 2025 México | Diplomado en cómputo forense y evidencia digital  
 &nbsp;  
