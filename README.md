@@ -146,14 +146,23 @@ Ciberinteligencia/Geolocalización. Identificación y seguimiento de dispositivo
 
 <br>
 
-- [TryHackMe](https://tryhackme.com/)
-- [Hack The Box](https://www.hackthebox.com/)
-- [CyLab Security Academy](https://cylabacademy.org/)
-- [PortSwigger](https://portswigger.net/web-security)
-- [OverTheWire](https://overthewire.org/wargames/)
-- [CyberDefenders](https://cyberdefenders.org/blue-team-labs/)
 - [Blue Team Labs Online](https://blueteamlabs.online/)
 - [CryptoHack](https://cryptohack.org/)
+- [CyberDefenders](https://cyberdefenders.org/blue-team-labs/)
+- [CyLab Security Academy](https://cylabacademy.org/)
+- [Hack The Box](https://www.hackthebox.com/)
+- [OverTheWire](https://overthewire.org/wargames/)
+- [PortSwigger](https://portswigger.net/web-security)
+- [TryHackMe](https://tryhackme.com/)
+
+</details>
+
+<details>
+<summary><strong>Formación</strong></summary>
+
+<br>
+
+- [Grupo Goberna](https://campus.grupogoberna.com/login/index.php)
 
 </details>
 
