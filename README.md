@@ -129,10 +129,10 @@ Ciberinteligencia/Geolocalización. Identificación y seguimiento de dispositivo
 
 
 
-🎖️ **Asociación Internacional de Ciberseguridad (ASICI)**  
+🎖️&nbsp;&nbsp;**Asociación Internacional de Ciberseguridad (ASICI)**  
 2026 España | Miembro afiliado  
 &nbsp;  
-🎖️ **Colegio de Inteligencia, Seguridad y Ciencias Forenses (CISCF)**  
+🎖️&nbsp;&nbsp;**Colegio de Inteligencia, Seguridad y Ciencias Forenses (CISCF)**  
 2026 México | Miembro afiliado  
 
 </details>
