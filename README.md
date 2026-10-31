@@ -69,22 +69,22 @@ Ciberinteligencia/Geolocalización. Identificación y seguimiento de dispositivo
 
 
 
-🎓 **Colegio Internacional de Ciencias Criminológicas y Forenses (CICCF)**  
+🎓&nbsp;&nbsp;**Colegio Internacional de Ciencias Criminológicas y Forenses (CICCF)**  
 2026 México | Maestrando en Cibercriminología y Ciberseguridad  
 &nbsp;  
-🎓 **Instituto Educativo en Informática y Computación (INEIN)**  
+🎓&nbsp;&nbsp;**Instituto Educativo en Informática y Computación (INEIN)**  
 2026 México | Diplomado en Ciberseguridad Avanzado  
 &nbsp;  
-🎓 **Instituto Educativo en Informática y Computación (INEIN)**  
+🎓&nbsp;&nbsp;**Instituto Educativo en Informática y Computación (INEIN)**  
 2025 México | Diplomado en Ciberseguridad Básica  
 &nbsp;  
-🎓 **Federación Mexicana de Criminología y Criminalística (FMCC)**  
+🎓&nbsp;&nbsp;**Federación Mexicana de Criminología y Criminalística (FMCC)**  
 2025 México | Diplomado en cómputo forense y evidencia digital  
 &nbsp;  
-🎓 **Colegio de Inteligencia, Seguridad y Ciencias Forenses (CISCF)**  
+🎓&nbsp;&nbsp;**Colegio de Inteligencia, Seguridad y Ciencias Forenses (CISCF)**  
 2025 México | Diplomado en inteligencia aplicada a la seguridad pública  
 &nbsp;  
-🎓 **Universidad Siglo XXI (UNISO)**  
+🎓&nbsp;&nbsp;**Universidad Siglo XXI (UNISO)**  
 2021 México | Licenciatura en Diseño Gráfico
 
 </details>
