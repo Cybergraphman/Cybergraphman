@@ -162,6 +162,8 @@ Ciberinteligencia/Geolocalización. Identificación y seguimiento de dispositivo
 
 <br>
 
+📂&nbsp;&nbsp;[Capacítate para el Empleo](https://capacitateparaelempleo.org/)  
+
 <details>
 <summary>📂&nbsp;&nbsp;<strong>CISCF</strong></summary>
 
