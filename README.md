@@ -163,6 +163,10 @@ Ciberinteligencia/Geolocalización. Identificación y seguimiento de dispositivo
 <br>
 
 - [Grupo Goberna](https://campus.grupogoberna.com/login/index.php)
+- **ONSIP Perú**
+  - [Estudiantes](https://www.onsipperu.org/estudiantes)
+  - [Cursos](https://www.onsipperu.org/aula-virtual/cursos)
+  - [Diplomados](https://www.onsipperu.org/aula-virtual/diplomados)
 
 </details>
 
