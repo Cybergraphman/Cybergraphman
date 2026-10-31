@@ -53,6 +53,9 @@ Informática forense/Recuperación de datos. Recuperación de archivos eliminado
 &nbsp;  
 💻 <strong>Captura de mensajes cifrados</strong>  
 Ciberseguridad/Monitoreo digital. Visualización y registro de mensajes de aplicaciones con cifrado de extremo a extremo.  
+&nbsp;  
+💻 <strong>Geolocalización y seguimiento de dispositivos</strong>  
+Ciberinteligencia/Servicios basados en localización (LBS). Identificación y seguimiento geográfico de dispositivos mediante GPS, redes celulares, direcciones IP y plataformas de localización en tiempo real.  
 </details>
 
 ---
