@@ -146,14 +146,14 @@ Ciberinteligencia/Geolocalización. Identificación y seguimiento de dispositivo
 
 <br>
 
-- 🖋&nbsp;&nbsp;[Blue Team Labs Online](https://blueteamlabs.online/)
-- 🖋&nbsp;&nbsp;[CryptoHack](https://cryptohack.org/)
-- 🖋&nbsp;&nbsp;[CyberDefenders](https://cyberdefenders.org/blue-team-labs/)
-- 🖋&nbsp;&nbsp;[CyLab Security Academy](https://cylabacademy.org/)
-- 🖋&nbsp;&nbsp;[Hack The Box](https://www.hackthebox.com/)
-- 🖋&nbsp;&nbsp;[OverTheWire](https://overthewire.org/wargames/)
-- 🖋&nbsp;&nbsp;[PortSwigger](https://portswigger.net/web-security)
-- 🖋&nbsp;&nbsp;[TryHackMe](https://tryhackme.com/)
+📂&nbsp;&nbsp;[Blue Team Labs Online](https://blueteamlabs.online/)  
+📂&nbsp;&nbsp;[CryptoHack](https://cryptohack.org/)  
+📂&nbsp;&nbsp;[CyberDefenders](https://cyberdefenders.org/blue-team-labs/)  
+📂&nbsp;&nbsp;[CyLab Security Academy](https://cylabacademy.org/)  
+📂&nbsp;&nbsp;[Hack The Box](https://www.hackthebox.com/)  
+📂&nbsp;&nbsp;[OverTheWire](https://overthewire.org/wargames/)  
+📂&nbsp;&nbsp;[PortSwigger](https://portswigger.net/web-security)  
+📂&nbsp;&nbsp;[TryHackMe](https://tryhackme.com/)  
 
 </details>
 
@@ -162,11 +162,11 @@ Ciberinteligencia/Geolocalización. Identificación y seguimiento de dispositivo
 
 <br>
 
-- 🖋&nbsp;&nbsp;[Grupo Goberna](https://campus.grupogoberna.com/login/index.php)
-- 🖋&nbsp;&nbsp;**ONSIP**
-  - 🖋&nbsp;&nbsp;[Estudiantes](https://www.onsipperu.org/estudiantes)
-  - 🖋&nbsp;&nbsp;[Cursos](https://www.onsipperu.org/aula-virtual/cursos)
-  - 🖋&nbsp;&nbsp;[Diplomados](https://www.onsipperu.org/aula-virtual/diplomados)
+📂&nbsp;&nbsp;[Grupo Goberna](https://campus.grupogoberna.com/login/index.php)  
+📂&nbsp;&nbsp;**ONSIP**  
+&nbsp;&nbsp;&nbsp;&nbsp;📂&nbsp;&nbsp;[Estudiantes](https://www.onsipperu.org/estudiantes)  
+&nbsp;&nbsp;&nbsp;&nbsp;📂&nbsp;&nbsp;[Cursos](https://www.onsipperu.org/aula-virtual/cursos)  
+&nbsp;&nbsp;&nbsp;&nbsp;📂&nbsp;&nbsp;[Diplomados](https://www.onsipperu.org/aula-virtual/diplomados)  
 
 </details>
 
