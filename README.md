@@ -186,6 +186,7 @@ Ciberinteligencia/Geolocalización. Identificación y seguimiento de dispositivo
 
 </details>
 
+📂&nbsp;&nbsp;[OSINT Excellence](https://www.osintexcellence.org/account/sessions/new)  
 📂&nbsp;&nbsp;[UNICEF](https://agora.unicef.org/login/index.php)  
 
 </details>
