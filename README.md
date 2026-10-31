@@ -162,6 +162,16 @@ Ciberinteligencia/Geolocalización. Identificación y seguimiento de dispositivo
 
 <br>
 
+<details>
+<summary>📂&nbsp;&nbsp;<strong>CISCF</strong></summary>
+
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;📂&nbsp;&nbsp;<a href="https://colegiodeinteligenciayseguridad.com/campus-virtual/enrolled-courses/">Cursos</a>  
+&nbsp;&nbsp;&nbsp;&nbsp;📂&nbsp;&nbsp;<a href="https://plataformaestudy.mx/ciscf/estudy/#/login">Licenciaturas</a>
+
+</details>
+
 📂&nbsp;&nbsp;[Grupo Goberna](https://campus.grupogoberna.com/login/index.php)  
 📂&nbsp;&nbsp;[OEA](https://portal.educoas.org/es)  
 <details>
