@@ -163,6 +163,7 @@ Ciberinteligencia/Geolocalización. Identificación y seguimiento de dispositivo
 <br>
 
 📂&nbsp;&nbsp;[Grupo Goberna](https://campus.grupogoberna.com/login/index.php)  
+📂&nbsp;&nbsp;[OEA](https://portal.educoas.org/es)  
 <details>
 <summary>📂&nbsp;&nbsp;<strong>ONSIP</strong></summary>
 
