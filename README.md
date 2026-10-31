@@ -162,7 +162,7 @@ Ciberinteligencia/Geolocalización. Identificación y seguimiento de dispositivo
 
 <br>
 
-📂&nbsp;&nbsp;[Aprende.org](https://aprende.org/)  
+📂&nbsp;&nbsp;[Aprende](https://aprende.org/)  
 📂&nbsp;&nbsp;[Capacítate para el Empleo](https://capacitateparaelempleo.org/)  
 
 <details>
@@ -175,7 +175,7 @@ Ciberinteligencia/Geolocalización. Identificación y seguimiento de dispositivo
 
 </details>
 
-📂&nbsp;&nbsp;[Federación Mexicana de Criminología y Criminalística (FMCC)](https://www.criminologiaycriminalistica.com/)  
+📂&nbsp;&nbsp;[FMCC](https://www.criminologiaycriminalistica.com/)  
 📂&nbsp;&nbsp;[Grupo Goberna](https://campus.grupogoberna.com/login/index.php)  
 📂&nbsp;&nbsp;[OEA](https://portal.educoas.org/es)  
 <details>
