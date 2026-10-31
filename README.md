@@ -22,19 +22,19 @@ Espacio dedicado a compartir conocimientos, documentar herramientas tecnológica
 <br>
 
 
-💻  **[Información del sistema](Terminal/informacion-sistema-macos.md)**  
+🖥&nbsp;&nbsp;**[Información del sistema](Terminal/informacion-sistema-macos.md)**  
 Apple/macOS/Terminal. Consulta las características de hardware y software.  
 &nbsp;  
-💻 **[Conversión de imágenes](Terminal/conversion-png-jpg.md)**  
+🖥&nbsp;&nbsp;**[Conversión de imágenes](Terminal/conversion-png-jpg.md)**  
 Apple/macOS/Terminal. Convierte imágenes PNG a JPEG.  
 &nbsp;  
-💻 **[Conversión de audio](Terminal/conversion-wav-mp3.md)**  
+🖥&nbsp;&nbsp;**[Conversión de audio](Terminal/conversion-wav-mp3.md)**  
 Apple/macOS/Terminal. Convierte archivos WAV a MP3 utilizando FFmpeg.  
 &nbsp;  
-💻  **[Esteganografía digital](Terminal/esteganografia-lsb.md)**  
+🖥&nbsp;&nbsp;**[Esteganografía digital](Terminal/esteganografia-lsb.md)**  
 Apple/macOS/Terminal. Oculta mensajes en fotografías mediante esteganografía digital utilizando la técnica LSB.  
 &nbsp;  
-💻 **[Ocultación de archivos](Terminal/ocultar-archivos.md)**  
+🖥&nbsp;&nbsp;**[Ocultación de archivos](Terminal/ocultar-archivos.md)**  
 Apple/macOS/Terminal. Modifica atributos de archivos mediante `chflags hidden` para ocultarlos en Finder.
 
 </details>
@@ -45,16 +45,16 @@ Apple/macOS/Terminal. Modifica atributos de archivos mediante `chflags hidden` p
 <br>
 
 
-💻 <strong>Modo incógnito</strong>  
+🖥&nbsp;&nbsp;<strong>Modo incógnito</strong>  
 Ciberseguridad/Privacidad digital. Monitoreo y análisis del tráfico de red de dispositivos, incluso durante sesiones de navegación en modo incógnito.  
 &nbsp;  
-💻 <strong>Archivos eliminados</strong>  
+🖥&nbsp;&nbsp;<strong>Archivos eliminados</strong>  
 Informática forense/Recuperación de datos. Recuperación de archivos eliminados mediante técnicas y herramientas forenses.  
 &nbsp;  
-💻 <strong>Captura de mensajes cifrados</strong>  
+🖥&nbsp;&nbsp;<strong>Captura de mensajes cifrados</strong>  
 Ciberseguridad/Monitoreo digital. Visualización y registro de mensajes de aplicaciones con cifrado de extremo a extremo.  
 &nbsp;  
-💻 <strong>Seguimiento de dispositivos mediante LBS</strong>  
+🖥&nbsp;&nbsp;<strong>Seguimiento de dispositivos mediante LBS</strong>  
 Ciberinteligencia/Geolocalización. Identificación y seguimiento de dispositivos mediante servicios basados en localización (LBS).  
 </details>
 
