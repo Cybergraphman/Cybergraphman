@@ -163,10 +163,16 @@ Ciberinteligencia/Geolocalización. Identificación y seguimiento de dispositivo
 <br>
 
 📂&nbsp;&nbsp;[Grupo Goberna](https://campus.grupogoberna.com/login/index.php)  
-📂&nbsp;&nbsp;**ONSIP**  
-&nbsp;&nbsp;&nbsp;&nbsp;📂&nbsp;&nbsp;[Estudiantes](https://www.onsipperu.org/estudiantes)  
-&nbsp;&nbsp;&nbsp;&nbsp;📂&nbsp;&nbsp;[Cursos](https://www.onsipperu.org/aula-virtual/cursos)  
-&nbsp;&nbsp;&nbsp;&nbsp;📂&nbsp;&nbsp;[Diplomados](https://www.onsipperu.org/aula-virtual/diplomados)  
+<details>
+<summary>📂&nbsp;&nbsp;<strong>ONSIP</strong></summary>
+
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;📂&nbsp;&nbsp;<a href="https://www.onsipperu.org/estudiantes">Estudiantes</a>  
+&nbsp;&nbsp;&nbsp;&nbsp;📂&nbsp;&nbsp;<a href="https://www.onsipperu.org/aula-virtual/cursos">Cursos</a>  
+&nbsp;&nbsp;&nbsp;&nbsp;📂&nbsp;&nbsp;<a href="https://www.onsipperu.org/aula-virtual/diplomados">Diplomados</a>
+
+</details>
 
 </details>
 
