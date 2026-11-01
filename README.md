@@ -56,6 +56,10 @@ Ciberseguridad/Monitoreo digital. Visualización y registro de mensajes de aplic
 &nbsp;  
 🖥&nbsp;&nbsp;<strong>Seguimiento de dispositivos mediante LBS</strong>  
 Ciberinteligencia/Geolocalización. Identificación y seguimiento de dispositivos mediante servicios basados en localización (LBS).  
+&nbsp;  
+🖥&nbsp;&nbsp;<strong>Interceptación de llamadas telefónicas</strong>  
+Ciberseguridad / Análisis de tráfico VoIP.  
+Captura y reconstrucción de comunicaciones de voz mediante el análisis de paquetes RTP.  
 </details>
 
 ---
