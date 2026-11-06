@@ -166,6 +166,6 @@ Captura y reconstrucción de comunicaciones de voz mediante el análisis de paqu
 <p align="center">
   <a href="https://cybergraphman.github.io/Palabra/">
     <img src="https://img.shields.io/badge/Palabra-Ver%20vers%C3%ADculos-3999B8?style=for-the-badge&logo=bookstack&logoColor=white"
-         alt="Cybergraphman Palabra - Ver versículos">
+         alt="Cybergraphman Palabra - Ver versículos" width="262" height="28">
   </a>
 </p>
