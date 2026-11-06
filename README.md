@@ -143,6 +143,15 @@ Captura y reconstrucción de comunicaciones de voz mediante el análisis de paqu
 
 ---
 
+<h3 align="center">Cybergraphman | Palabra</h3>
+
+<p align="center">
+  <a href="https://cybergraphman.github.io/Palabra/">
+    <img src="https://img.shields.io/badge/Palabra-Ver%20vers%C3%ADculos-3999B8?style=for-the-badge&logo=bookstack&logoColor=white"
+         alt="Cybergraphman Palabra - Ver versículos" width="262" height="28">
+  </a>
+</p>
+
 <h3 align="center">Cybergraphman | Podcast</h3>
 
 <p align="center">
@@ -158,14 +167,5 @@ Captura y reconstrucción de comunicaciones de voz mediante el análisis de paqu
   <a href="https://open.spotify.com/artist/1cYmypoHCsT3ZaC2aVrnvj">
     <img src="https://img.shields.io/badge/Spotify-Escucha%20en%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"
          alt="Cybergraphman Music">
-  </a>
-</p>
-
-<h3 align="center">Cybergraphman | Palabra</h3>
-
-<p align="center">
-  <a href="https://cybergraphman.github.io/Palabra/">
-    <img src="https://img.shields.io/badge/Palabra-Ver%20vers%C3%ADculos-3999B8?style=for-the-badge&logo=bookstack&logoColor=white"
-         alt="Cybergraphman Palabra - Ver versículos" width="262" height="28">
   </a>
 </p>
