@@ -64,13 +64,6 @@ Captura y reconstrucción de comunicaciones de voz mediante el análisis de paqu
 
 ---
 
-<h3 align="left">Palabra</h3>
-
-**[Palabra · Versículos Reina-Valera 1960](https://cybergraphman.github.io/Palabra/)**  
-Colección de versículos y composiciones visuales.
-
----
-
 <h3 align="left">Credenciales</h3>
 
 <details>
@@ -165,5 +158,14 @@ Colección de versículos y composiciones visuales.
   <a href="https://open.spotify.com/artist/1cYmypoHCsT3ZaC2aVrnvj">
     <img src="https://img.shields.io/badge/Spotify-Escucha%20en%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"
          alt="Cybergraphman Music">
+  </a>
+</p>
+
+<h3 align="center">Cybergraphman | Palabra</h3>
+
+<p align="center">
+  <a href="https://cybergraphman.github.io/Palabra/">
+    <img src="https://img.shields.io/badge/Palabra-Ver%20vers%C3%ADculos-3999B8?style=for-the-badge&logo=bookstack&logoColor=white"
+         alt="Cybergraphman Palabra - Ver versículos">
   </a>
 </p>
