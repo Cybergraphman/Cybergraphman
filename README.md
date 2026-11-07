@@ -106,17 +106,11 @@ Captura y reconstrucción de comunicaciones de voz mediante el análisis de paqu
 📓&nbsp;&nbsp;**Junta Interamericana de Defensa (JID)**  
 2026 Organismo Interamericano | Seminario hemisférico de ciberdefensa 2026  
 &nbsp;  
-📓&nbsp;&nbsp;**Organización de las Naciones Unidas (ONU)**  
-2026 Internacional | Tratado sobre el Comercio de Armas: artículo 7, evaluación de riesgos y criterios de violencia de género  
-&nbsp;  
 📓&nbsp;&nbsp;**Fundación Comunidad DOJO y Women of Security Panamá (WoSec)**  
 2025 Panamá | Participante becado del bootcamp fundamentos de ciberseguridad  
 &nbsp;  
 📓&nbsp;&nbsp;**Colegio de Inteligencia, Seguridad y Ciencias Forenses (CISCF)**  
 2025 México | Técnicas forenses de extracción y análisis, de datos de teléfonos celulares  
-&nbsp;  
-📓&nbsp;&nbsp;**Organización de las Naciones Unidas (ONU)**  
-2025 Internacional | Resolución 1540 (2004) del Consejo de Seguridad de las Naciones Unidas  
 &nbsp;  
 📓&nbsp;&nbsp;**Universitat Politècnica de València (UPV)**  
 2024 España | Fundamentos de ciberseguridad para usuarios    
