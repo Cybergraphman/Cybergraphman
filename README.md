@@ -60,8 +60,7 @@ Captura y reconstrucción de comunicaciones de voz mediante el análisis de paqu
 
 <p align="center">
   <a href="https://cybergraphman.github.io/">
-    <img src="https://img.shields.io/badge/GitHub-Ver%20sitio%20web-3999B8?style=for-the-badge&logo=github&logoColor=white"
-         alt="Cybergraphman | GitHub - Ver sitio web">
+    <img src="https://img.shields.io/badge/GitHub-VER%20SITIO%20WEB-3999B8?style=for-the-badge&logo=github&logoColor=white&labelColor=294956" alt="Cybergraphman | GitHub: VER SITIO WEB" width="282" height="32" />
   </a>
 </p>
 
@@ -69,8 +68,7 @@ Captura y reconstrucción de comunicaciones de voz mediante el análisis de paqu
 
 <p align="center">
   <a href="https://cybergraphman.github.io/Palabra/">
-    <img src="https://img.shields.io/badge/Palabra-Ver%20vers%C3%ADculos-3999B8?style=for-the-badge&logo=bookstack&logoColor=white"
-         alt="Cybergraphman Palabra - Ver versículos" width="262" height="28">
+    <img src="https://img.shields.io/badge/Palabra-VER%20VERS%C3%8DCULOS-3999B8?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=294956" alt="Cybergraphman | Palabra: VER VERSÍCULOS" width="282" height="32" />
   </a>
 </p>
 
@@ -78,8 +76,7 @@ Captura y reconstrucción de comunicaciones de voz mediante el análisis de paqu
 
 <p align="center">
   <a href="https://open.spotify.com/show/4xlG5MCo8kZGhPvISuXwrX">
-    <img src="https://img.shields.io/badge/Spotify-Escucha%20en%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"
-         alt="Cybergraphman Podcast">
+    <img src="https://img.shields.io/badge/Spotify-ESCUCHAR%20PODCAST-3999B8?style=for-the-badge&logo=spotify&logoColor=white&labelColor=294956" alt="Cybergraphman | Podcast: ESCUCHAR PODCAST" width="282" height="32" />
   </a>
 </p>
 
@@ -87,7 +84,6 @@ Captura y reconstrucción de comunicaciones de voz mediante el análisis de paqu
 
 <p align="center">
   <a href="https://open.spotify.com/artist/1cYmypoHCsT3ZaC2aVrnvj">
-    <img src="https://img.shields.io/badge/Spotify-Escucha%20en%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"
-         alt="Cybergraphman Music">
+    <img src="https://img.shields.io/badge/Spotify-ESCUCHAR%20M%C3%9ASICA-3999B8?style=for-the-badge&logo=spotify&logoColor=white&labelColor=294956" alt="Cybergraphman | Music: ESCUCHAR MÚSICA" width="282" height="32" />
   </a>
 </p>
