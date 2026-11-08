@@ -8,10 +8,6 @@
 
 **Graphic Design | Cybersecurity | Quality Control**
 
-<p align="justify">
-Espacio dedicado a compartir conocimientos, documentar herramientas tecnológicas y explorar el mundo del <strong>diseño gráfico, la ciberseguridad y el control de calidad</strong>.
-</p>
-
 ---
 
 <h3 align="left">Repositorios</h3>
