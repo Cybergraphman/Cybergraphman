@@ -56,6 +56,15 @@ Captura y reconstrucción de comunicaciones de voz mediante el análisis de paqu
 
 ---
 
+<h3 align="center">Cybergraphman | GitHub</h3>
+
+<p align="center">
+  <a href="https://cybergraphman.github.io/">
+    <img src="https://img.shields.io/badge/GitHub-Ver%20sitio%20web-3999B8?style=for-the-badge&logo=github&logoColor=white"
+         alt="Cybergraphman | GitHub - Ver sitio web">
+  </a>
+</p>
+
 <h3 align="center">Cybergraphman | Palabra</h3>
 
 <p align="center">
