@@ -4,10 +4,6 @@
        width="100%">
 </p>
 
-### Cybergraphman
-
-**Graphic Design | Cybersecurity | Quality Control**
-
 ---
 
 <h3 align="left">Repositorios</h3>
